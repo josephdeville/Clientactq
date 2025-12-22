@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """
-Audio Software Companies Scraper & GTM Analyzer
-Scrapes company websites using Firecrawl and analyzes with Claude API.
+Audio Software Companies Scraper - WebFetch Version
+Uses the built-in WebFetch-like functionality via requests.
+Analyzes content with Claude API.
 """
 
 import os
@@ -9,13 +10,14 @@ import csv
 import json
 import time
 import re
+import requests
 from datetime import datetime
 from typing import Optional
 from urllib.parse import urljoin
+from html2text import html2text
 
 import pandas as pd
 from dotenv import load_dotenv
-from firecrawl import FirecrawlApp
 from anthropic import Anthropic
 from tenacity import retry, stop_after_attempt, wait_exponential
 from tqdm import tqdm
@@ -23,21 +25,21 @@ from tqdm import tqdm
 load_dotenv()
 
 # Configuration
-FIRECRAWL_API_KEY = os.getenv("FIRECRAWL_API_KEY")
 ANTHROPIC_API_KEY = os.getenv("ANTHROPIC_API_KEY")
-RATE_LIMIT_DELAY = 2  # seconds between requests
+RATE_LIMIT_DELAY = 1  # seconds between requests
 MAX_RETRIES = 3
+REQUEST_TIMEOUT = 15
 
 # Page path variations to try
 PAGE_PATHS = {
     "homepage": [""],
-    "pricing": ["/pricing", "/buy", "/shop", "/plans", "/store", "/purchase"],
-    "careers": ["/careers", "/jobs", "/join-us", "/work-with-us", "/about/careers", "/company/careers"],
-    "blog": ["/blog", "/resources", "/learn", "/news", "/articles", "/insights"],
-    "about": ["/about", "/company", "/about-us", "/who-we-are", "/our-story"],
+    "pricing": ["/pricing", "/buy", "/shop", "/plans", "/store"],
+    "careers": ["/careers", "/jobs", "/join-us", "/company/careers"],
+    "blog": ["/blog", "/resources", "/news", "/learn"],
+    "about": ["/about", "/company", "/about-us"],
 }
 
-# Analysis prompts
+# Analysis prompts (same as before)
 HOMEPAGE_PROMPT = """Analyze this homepage content and extract:
 1. Primary value proposition (1-2 sentences)
 2. Target customer type (e.g., "professional audio engineers", "indie game developers")
@@ -105,32 +107,27 @@ Return as JSON with keys: gtm_strategy_summary, gtm_gaps_opportunities, opportun
 
 class CompanyScraper:
     def __init__(self):
-        if not FIRECRAWL_API_KEY:
-            raise ValueError("FIRECRAWL_API_KEY environment variable required")
         if not ANTHROPIC_API_KEY:
             raise ValueError("ANTHROPIC_API_KEY environment variable required")
 
-        self.firecrawl = FirecrawlApp(api_key=FIRECRAWL_API_KEY)
         self.anthropic = Anthropic(api_key=ANTHROPIC_API_KEY)
+        self.session = requests.Session()
+        self.session.headers.update({
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+        })
         self.results = []
 
-    @retry(stop=stop_after_attempt(MAX_RETRIES), wait=wait_exponential(multiplier=1, min=2, max=10))
-    def scrape_page(self, url: str) -> Optional[str]:
-        """Scrape a single page using Firecrawl."""
+    def fetch_page(self, url: str) -> Optional[str]:
+        """Fetch a page and convert to markdown."""
         try:
-            result = self.firecrawl.scrape(
-                url,
-                formats=['markdown'],
-                only_main_content=True,
-                timeout=30000
-            )
-            if result and hasattr(result, 'markdown') and result.markdown:
-                return result.markdown
-            elif result and isinstance(result, dict) and 'markdown' in result:
-                return result['markdown']
+            response = self.session.get(url, timeout=REQUEST_TIMEOUT, allow_redirects=True)
+            if response.status_code == 200:
+                # Convert HTML to markdown
+                markdown = html2text(response.text)
+                return markdown
             return None
         except Exception as e:
-            print(f"  Error scraping {url}: {e}")
+            print(f"  Error fetching {url}: {e}")
             return None
 
     def find_and_scrape_page(self, base_url: str, page_type: str) -> Optional[str]:
@@ -141,7 +138,7 @@ class CompanyScraper:
             url = urljoin(base_url.rstrip('/') + '/', path.lstrip('/'))
             time.sleep(RATE_LIMIT_DELAY)
 
-            content = self.scrape_page(url)
+            content = self.fetch_page(url)
             if content and len(content) > 200:  # Minimum content threshold
                 return content
 
@@ -157,7 +154,7 @@ class CompanyScraper:
                 messages=[
                     {
                         "role": "user",
-                        "content": f"{prompt}\n\nContent to analyze:\n{content[:15000]}"  # Truncate if too long
+                        "content": f"{prompt}\n\nContent to analyze:\n{content[:15000]}"
                     }
                 ]
             )

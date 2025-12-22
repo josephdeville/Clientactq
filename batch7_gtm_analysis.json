@@ -1,0 +1,519 @@
+[
+  {
+    "company_name": "WellSaid Labs",
+    "website": "https://wellsaidlabs.com",
+    "homepage_general": {
+      "value_proposition": "AI voice generation platform providing natural-sounding, lifelike text-to-speech (TTS) for professional content creation using deep learning and custom voice capabilities",
+      "target_customer": "Enterprise brands, L&D teams, marketing professionals, content creators at companies like LinkedIn, T-Mobile, ServiceNow, and Accenture",
+      "pricing_model_hint": "Subscription-based with monthly/annual options, tiered by features and voice access",
+      "free_trial_demo": "7-day trial with limited access to pre-selected voices (no credit card required)",
+      "community_links": "No public Discord, Slack, or developer community found"
+    },
+    "pricing": {
+      "pricing_model": "subscription",
+      "price_tiers": [
+        {
+          "tier": "Maker",
+          "price": "$49/month or ~$44/month annually (10% discount)",
+          "notes": "Entry-level plan"
+        },
+        {
+          "tier": "Creative",
+          "price": "$99/month",
+          "notes": "Mid-tier plan"
+        },
+        {
+          "tier": "Team",
+          "price": "$199/month",
+          "notes": "Team collaboration features"
+        },
+        {
+          "tier": "Enterprise",
+          "price": "Custom pricing",
+          "notes": "Unlimited projects, SSO, priority support, dedicated account team, API access (often 3-5x advertised rates)"
+        }
+      ],
+      "free_trial_details": "7-day trial with limited voice library access, no credit card required",
+      "educational_discount": "Not mentioned in search results"
+    },
+    "careers": {
+      "has_gtm_roles": true,
+      "gtm_job_titles": [
+        "Sales Development Representative (SDR)",
+        "Senior Product Marketing Manager"
+      ],
+      "growth_signals": [
+        "Active hiring for GTM roles including SDR and Sr. Product Marketing Manager",
+        "Expanding product features (HINTS technology, Caruso AI model, AI Director)",
+        "New CEO appointment (Benjamin Dorr promoted from CFO)",
+        "Global expansion (82 employees across 3 continents)",
+        "Major platform updates in 2025 with 36 new voices and global language support"
+      ],
+      "total_open_positions": "13+ positions listed on LinkedIn"
+    },
+    "blog_content": {
+      "recent_posts": [
+        {
+          "title": "WellSaid Labs Unveils AI Voice Breakthroughs: Faster, More Natural, and Enterprise-Ready",
+          "date": "October 2025",
+          "summary": "Announced Caruso AI model with 30% faster rendering, AI Director for emotional control, and 36 new voices"
+        },
+        {
+          "title": "Introducing WellSaid's HINTS",
+          "date": "2025",
+          "summary": "HINTS (Highly Intuitive Naturally Tailored Speech) - breakthrough generative model architecture"
+        },
+        {
+          "title": "WellSaid MCP Server",
+          "date": "2025",
+          "summary": "Streamlines AI voice integration, scalable and secure for real-world applications"
+        }
+      ],
+      "publishing_frequency": "Regular updates, multiple posts per quarter",
+      "content_focus": "Product announcements, ethical AI, enterprise use cases (healthcare, L&D), technical innovations"
+    },
+    "about": {
+      "year_founded": "2018 (some sources say 2019, spun out of AI2 Incubator in 2019)",
+      "acquisition_status": "Independent",
+      "company_size": "61-82 employees (various sources)",
+      "headquarters": "Seattle, Washington"
+    },
+    "gtm_strategy_summary": "WellSaid Labs employs an enterprise-focused B2B strategy with direct sales motion complemented by product-led growth. Active GTM hiring (SDR, Product Marketing) indicates scaling outbound and demand generation. Strong emphasis on ethical AI and enterprise-grade security (SOC2) targets mid-market to enterprise customers in L&D, marketing, and healthcare verticals.",
+    "gtm_gaps_opportunities": [
+      "Limited developer ecosystem and community presence - no Discord/Slack channels could hinder developer advocacy and viral growth",
+      "Pricing transparency issues - enterprise API costs (3-5x standard rates) may create friction; opportunity to build clearer SMB self-serve motion",
+      "Growing team but GTM function appears nascent - opportunity to build comprehensive sales enablement, partner channels, and field marketing programs"
+    ],
+    "opportunity_score": 7,
+    "opportunity_score_rationale": "Strong product-market fit in growing AI voice market with enterprise traction. Active GTM hiring signals investment in scaling go-to-market motion. However, competitive landscape (ElevenLabs, Play.ht) and limited community presence suggest need for differentiated GTM strategy and channel partnerships."
+  },
+  {
+    "company_name": "Photon Engine",
+    "website": "https://www.photonengine.com",
+    "homepage_general": {
+      "value_proposition": "Multiplayer game development platform offering low-latency networking, real-time voice/text chat, and cloud infrastructure for building and scaling cross-platform multiplayer games",
+      "target_customer": "Game developers and studios (Unity, Unreal, mobile, PC, console) from indie to AAA, including Square Enix, Warner Brothers Games, and 95,000+ developers globally",
+      "pricing_model_hint": "Freemium with CCU (Concurrently Connected Users) based pricing, bundled bandwidth",
+      "free_trial_demo": "100 CCU free plan (approximately 40,000 MAU) for Fusion and Quantum",
+      "community_links": "Discord (Photon Circle Discord for community and premium support), Forum (retired to read-only), Stack Overflow, developer@photonengine.com"
+    },
+    "pricing": {
+      "pricing_model": "subscription",
+      "price_tiers": [
+        {
+          "tier": "Free",
+          "price": "$0",
+          "notes": "100 CCU (~40,000 MAU) for soft-launches"
+        },
+        {
+          "tier": "200 CCU Plus",
+          "price": "$95 for full year",
+          "notes": "100 Free + 100 Paid CCU, friction-free path from test to beta for indies"
+        },
+        {
+          "tier": "500 CCU Growth",
+          "price": "$125/month",
+          "notes": "1.5 TB traffic bundled, scalable to 2,000 CCU for $500/month with 6 TB"
+        },
+        {
+          "tier": "Gaming Circle / Industries Circle",
+          "price": "Custom pricing",
+          "notes": "Premium support, private Discord channels, SLAs, enhanced DDOS protection, custom server logic plugins"
+        }
+      ],
+      "free_trial_details": "100 CCU free tier available permanently for Fusion and Quantum products",
+      "educational_discount": "Not mentioned in search results"
+    },
+    "careers": {
+      "has_gtm_roles": false,
+      "gtm_job_titles": [],
+      "growth_signals": [
+        "1.4 billion unique players monthly across Photon-powered games",
+        "Minority stake acquisition by Skillz for $50M (2021)",
+        "Expansion to Nintendo Switch 2 SDK support",
+        "Active blog with regular developer showcases and community content",
+        "Crazy Web Multiplayer Jam 2025 participation"
+      ],
+      "total_open_positions": "No specific GTM roles found; general Photon jobs available but mostly technical"
+    },
+    "blog_content": {
+      "recent_posts": [
+        {
+          "title": "Multiplayer Pricing Made Simple",
+          "date": "July 24, 2025",
+          "summary": "Flat rates, traffic included, 48-hour burst grace, ISO-27001 security"
+        },
+        {
+          "title": "Building Surfpunk: How Photon Quantum Supercharged Our Co-op ARPG Development",
+          "date": "2025",
+          "summary": "Developer showcase on using Photon Quantum for co-op game development"
+        },
+        {
+          "title": "R.E.P.O.: Multiplayer Success Powered by Photon",
+          "date": "2025",
+          "summary": "Case study: game achieved 8.7 million sold copies in March alone"
+        }
+      ],
+      "publishing_frequency": "Regular, multiple posts per month",
+      "content_focus": "Developer showcases, case studies, pricing updates, technical tutorials, community highlights, game jam events"
+    },
+    "about": {
+      "year_founded": "2003 (some sources say 2004)",
+      "acquisition_status": "Minority stake by Skillz ($50M, August 2021)",
+      "company_size": "Not clearly specified in sources",
+      "headquarters": "Hamburg, Germany"
+    },
+    "gtm_strategy_summary": "Photon Engine leverages a classic product-led growth (PLG) strategy with generous free tier (100 CCU) converting developers into paid customers as games scale. Relies heavily on developer community, Discord support, and word-of-mouth rather than traditional sales teams. Developer marketing through case studies, showcases, and event participation drives awareness.",
+    "gtm_gaps_opportunities": [
+      "No visible GTM team or sales organization - opportunity to build inside sales/customer success to accelerate enterprise conversions",
+      "Strong community but retired forum - could benefit from re-energized community strategy and developer advocacy program",
+      "Pricing is developer-friendly but enterprise motion is unclear - opportunity to formalize enterprise sales process, account management, and strategic partnership development"
+    ],
+    "opportunity_score": 6,
+    "opportunity_score_rationale": "Established player with massive scale (1.4B monthly players) but appears to rely purely on PLG without formal GTM infrastructure. Limited opportunity unless company wants to transition from pure PLG to hybrid sales-assisted model. Skillz investment suggests growth focus, creating potential for GTM consulting around enterprise expansion and partner ecosystem development."
+  },
+  {
+    "company_name": "PlayFab (Microsoft)",
+    "website": "https://playfab.com",
+    "homepage_general": {
+      "value_proposition": "Complete backend platform for games featuring managed game services, real-time analytics, and LiveOps capabilities integrated with Azure cloud infrastructure",
+      "target_customer": "Game developers across all platforms (mobile, PC, console) from indie to enterprise, including Disney, Rovio, Atari, NBC Universal, Bandai Namco, Capcom",
+      "pricing_model_hint": "Consumption-based metered pricing with tiered base rates",
+      "free_trial_demo": "Development Mode (free tier up to 100,000 users)",
+      "community_links": "Discord (Microsoft Game Dev Discord server with dedicated PlayFab category), Microsoft Learn documentation"
+    },
+    "pricing": {
+      "pricing_model": "subscription",
+      "price_tiers": [
+        {
+          "tier": "Pay-as-you-go",
+          "price": "$0/month base",
+          "notes": "Just pay for consumption on metered usage"
+        },
+        {
+          "tier": "Standard Plan",
+          "price": "$99/month",
+          "notes": "Includes meters, then pay-as-you-go for overages"
+        },
+        {
+          "tier": "Premium Plan",
+          "price": "$1,999/month",
+          "notes": "Includes higher meter allowances, then pay-as-you-go"
+        },
+        {
+          "tier": "Development Mode",
+          "price": "Free",
+          "notes": "Up to 100,000 users, for testing and development"
+        }
+      ],
+      "free_trial_details": "Development Mode provides free access for titles with up to 100,000 users",
+      "educational_discount": "Not mentioned in search results"
+    },
+    "careers": {
+      "has_gtm_roles": true,
+      "gtm_job_titles": [
+        "PlayFab Product Manager for Gaming Vertical",
+        "Principal Product Manager - Azure PlayFab"
+      ],
+      "growth_signals": [
+        "PlayFab Game Saves launched (public preview 2025) with Xbox ecosystem support",
+        "Unified SDK released (October 2025) consolidating all PlayFab libraries",
+        "Nintendo Switch 2 SDK support added",
+        "PlayStation 4/5 SDK 12.50/11.00 support",
+        "Unity 6 and Unreal Engine 5.5 compatibility"
+      ],
+      "total_open_positions": "PlayFab roles available through Microsoft careers portal (exact count varies)"
+    },
+    "blog_content": {
+      "recent_posts": [
+        {
+          "title": "PlayFab Digest: October Feature Updates",
+          "date": "November 2025",
+          "summary": "Game Saves for cross-platform progression, API rate limits view, Unified SDK"
+        },
+        {
+          "title": "PlayFab Digest: September Feature Updates",
+          "date": "September 2025",
+          "summary": "Game Saves public preview, API rate limits in Game Manager, GetPlayersInSegment deprecation"
+        },
+        {
+          "title": "PlayFab Digest: August Feature Updates",
+          "date": "September 2025",
+          "summary": "Native Battle.net player login support, Delete Studio button added"
+        }
+      ],
+      "publishing_frequency": "Monthly digest format",
+      "content_focus": "Product updates, SDK releases, platform compatibility, feature announcements, technical documentation"
+    },
+    "about": {
+      "year_founded": "2014",
+      "acquisition_status": "Acquired by Microsoft (January 29, 2018)",
+      "company_size": "Integrated into Microsoft Azure (original team largely departed post-acquisition)",
+      "headquarters": "Seattle, Washington (now part of Microsoft Azure)"
+    },
+    "gtm_strategy_summary": "PlayFab operates within Microsoft's enterprise Azure GTM motion, leveraging Microsoft's field sales teams and cloud partnerships. Strategy shifted from startup PLG to enterprise-focused Azure integration. Developer acquisition through free Development Mode, conversion through Azure consumption model. Microsoft Game Dev Discord community drives developer support and engagement.",
+    "gtm_gaps_opportunities": [
+      "Post-acquisition challenges: original team departed (2022), platform migration from AWS to Azure created friction",
+      "Developer sentiment concerns around Microsoft integration and platform stability (noted in 'Silent Sunset' articles)",
+      "Enterprise focus may alienate indie developers who valued original PlayFab startup culture and agility"
+    ],
+    "opportunity_score": 4,
+    "opportunity_score_rationale": "Limited external GTM consulting opportunity as Microsoft handles sales, marketing, and partnerships through existing Azure infrastructure. PlayFab is now a feature of Azure rather than standalone product. Any GTM work would need to go through Microsoft procurement. However, specialized expertise in gaming vertical GTM within Microsoft could have niche value."
+  },
+  {
+    "company_name": "Pragma Engine",
+    "website": "https://pragma.gg",
+    "homepage_general": {
+      "value_proposition": "Backend game engine providing extensible platform for live service games with cross-platform accounts, matchmaking, social systems, payments, player data, and telemetry",
+      "target_customer": "Game studios from indie to AAA including Gardens, People Can Fly, Remedy, Frost Giant, Square Enix, Mountaintop, Lightforge, Midnight Society, Free Range Games, Omeda Studios",
+      "pricing_model_hint": "Tiered model: Self-serve, Basic, Enterprise with custom contracts",
+      "free_trial_demo": "Not explicitly mentioned; appears to offer self-serve tier for small studios",
+      "community_links": "Steam Community group (though appears dormant), EU Online Services Summit (hosted with i3D.net)"
+    },
+    "pricing": {
+      "pricing_model": "subscription",
+      "price_tiers": [
+        {
+          "tier": "Self-serve",
+          "price": "Not disclosed",
+          "notes": "Small studios trying out Pragma on their own"
+        },
+        {
+          "tier": "Basic",
+          "price": "Not disclosed",
+          "notes": "Studios looking for basic guidance and support"
+        },
+        {
+          "tier": "Enterprise",
+          "price": "Custom pricing",
+          "notes": "Studios looking for hands-on support and guidance throughout game production"
+        }
+      ],
+      "free_trial_details": "Not clearly specified; self-serve tier suggests low-friction entry",
+      "educational_discount": "Not mentioned in search results"
+    },
+    "careers": {
+      "has_gtm_roles": true,
+      "gtm_job_titles": [
+        "Product Marketer",
+        "Business Operations / Strategic Finance (Director or Sr. Manager)"
+      ],
+      "growth_signals": [
+        "Series B funding: $12.7M (March 2025) from Greylock, Insight Partners, Upfront Ventures, Sixty Degree Capital, Square Enix",
+        "Total funding: $50.9M over 4 rounds",
+        "Merger/acquisition with FirstLook (February 2025)",
+        "Supporting 100+ studios worldwide",
+        "Pragma Connect launched (Summer 2025) - out-of-the-box cross-platform solution",
+        "Team grew 170% year-over-year (27 to 69 employees)"
+      ],
+      "total_open_positions": "Multiple roles on Wellfound/AngelList and company careers page"
+    },
+    "blog_content": {
+      "recent_posts": [
+        {
+          "title": "Pragma Summer 2025 Update",
+          "date": "Summer 2025",
+          "summary": "Supporting 100+ studios, Pragma Connect official release, studio highlights"
+        },
+        {
+          "title": "Pragma Q1 2025 Update",
+          "date": "Q1 2025",
+          "summary": "$12.75M strategic investment with Square Enix, EU Online Services Summit hosted"
+        },
+        {
+          "title": "Pragma Engine Release - January 2025",
+          "date": "January 2025",
+          "summary": "New matchmaking flows, Pragma order system, player data management improvements"
+        }
+      ],
+      "publishing_frequency": "Quarterly company updates plus technical blog posts monthly",
+      "content_focus": "Product releases, company milestones, funding announcements, technical architecture, customer showcases, industry events"
+    },
+    "about": {
+      "year_founded": "2019 (some sources say 2020)",
+      "acquisition_status": "Acquired/merged with FirstLook (February 2025), but appears to be strategic consolidation rather than exit",
+      "company_size": "69 employees",
+      "headquarters": "Culver City, California"
+    },
+    "gtm_strategy_summary": "Pragma employs founder-led enterprise sales leveraging team's pedigree from League of Legends, Fortnite, and Destiny 2. Product marketing and strategic finance roles indicate building formal GTM infrastructure. Square Enix strategic investment (2025) provides enterprise customer validation and potential partnership channel. Currently scaling from founder-led deals to repeatable enterprise sales process.",
+    "gtm_gaps_opportunities": [
+      "Small GTM team (69 total employees) relative to 100+ studio customers - opportunity to build scalable sales, customer success, and partner programs",
+      "Limited brand awareness outside core gaming industry - need for thought leadership, analyst relations, and broader market education",
+      "Competing with entrenched players (PlayFab, Photon) and well-funded startups - opportunity for differentiated positioning around 'backend engine' vs 'managed service' and extensive customization capabilities"
+    ],
+    "opportunity_score": 8,
+    "opportunity_score_rationale": "Highest opportunity score. Well-funded ($50.9M total), actively hiring GTM roles, strong product-market fit with 100+ customers, and stellar founding team. Square Enix investment provides enterprise validation. Currently in critical scaling phase where professional GTM infrastructure could accelerate growth. FirstLook merger expands TAM into player CRM/analytics market."
+  },
+  {
+    "company_name": "Beamable",
+    "website": "https://beamable.com",
+    "homepage_general": {
+      "value_proposition": "Open, extensible game server platform and LiveOps solution for Unity/Unreal games, enabling rapid addition of social, commerce, content management, GenAI, and Web3 capabilities",
+      "target_customer": "Unity and Unreal Engine game developers from solo indie to enterprise teams, focusing on live service and social games",
+      "pricing_model_hint": "Hybrid subscription + usage-based model (API calls, dev seats, microservices)",
+      "free_trial_demo": "Free tier: Single developer, <100k API calls/month, up to 3 microservices",
+      "community_links": "Discord (official server), GitHub Discussions, Q/A Forum in documentation, Slack (for Studio/Pro tier customers)"
+    },
+    "pricing": {
+      "pricing_model": "both",
+      "price_tiers": [
+        {
+          "tier": "Free",
+          "price": "$0",
+          "notes": "Single developer, <100k API calls/month, up to 3 microservices"
+        },
+        {
+          "tier": "Dev",
+          "price": "$100/month",
+          "notes": "Additional dev seats, microservices, API calls"
+        },
+        {
+          "tier": "Reporting",
+          "price": "$300/month",
+          "notes": "Custom reporting access"
+        },
+        {
+          "tier": "Support Plans",
+          "price": "$600+/month",
+          "notes": "Private chat and additional support"
+        },
+        {
+          "tier": "Usage",
+          "price": "$10 per 1M API calls",
+          "notes": "Overage pricing; additional microservices at $20 each"
+        }
+      ],
+      "free_trial_details": "Permanent free tier for solo developers with <100k monthly API calls",
+      "educational_discount": "Pre-payment discounts: 3-month, 6-month, and 12-month terms (updated January 2025)"
+    },
+    "careers": {
+      "has_gtm_roles": false,
+      "gtm_job_titles": [],
+      "growth_signals": [
+        "Series A funding: $13.5M led by BITKRAFT Ventures (February 2025)",
+        "Total funding: $30.87M",
+        "Launch of Beamable Network (DePIN infrastructure on Solana)",
+        "DePIN Hub verification score: 86/100 (April 2025)",
+        "BMB Token Generation Event (November 11, 2025 on Metaplex)",
+        "Strong GDC 2025 and Gamescom 2025 presence with A16z, Binance, Meta, Coinbase partnerships"
+      ],
+      "total_open_positions": "No current job listings found on Employbl; job application form available at beamable.com/forms/job-apply"
+    },
+    "blog_content": {
+      "recent_posts": [
+        {
+          "title": "Beamable @ GDC 2025: Recap & Highlights from a Game-Changing Week",
+          "date": "March 2025",
+          "summary": "Invite-only brunch with A16z, Binance, Meta, Coinbase, Polygon, Sequoia, Animoca, Bitkraft"
+        },
+        {
+          "title": "Beamable Verified by DePIN Hub: What It Means for Game Developers",
+          "date": "April 15, 2025",
+          "summary": "Official DePIN Hub verification with 86/100 score"
+        },
+        {
+          "title": "Why We Built Beamable.Network",
+          "date": "July 29, 2025",
+          "summary": "Vision for decentralized, tokenized compute marketplace on Solana powered by $BMB"
+        }
+      ],
+      "publishing_frequency": "Multiple posts per month, especially around major events and product launches",
+      "content_focus": "Web3/DePIN strategy, fundraising, event recaps, product announcements, developer resources, token economics"
+    },
+    "about": {
+      "year_founded": "2010 as Disruptor Beam, rebranded to Beamable in 2020",
+      "acquisition_status": "Independent",
+      "company_size": "30-42 employees",
+      "headquarters": "Boston, Massachusetts"
+    },
+    "gtm_strategy_summary": "Beamable is pivoting from traditional game backend SaaS to Web3/DePIN infrastructure, leveraging crypto community partnerships (A16z, Binance, Solana Foundation) for distribution. Strategy combines developer-first PLG for core SaaS with token-based growth for Beamable Network. Heavy event marketing (GDC, Gamescom) and partnership ecosystem development rather than traditional sales organization.",
+    "gtm_gaps_opportunities": [
+      "No visible GTM team despite Series A funding and market expansion - significant opportunity to build sales, marketing, and customer success functions",
+      "Dual product strategy (SaaS + DePIN) creates positioning confusion - need clear market segmentation and messaging for Web2 vs Web3 developer audiences",
+      "Strong partnerships but unclear channel strategy - opportunity to formalize partnership program, co-marketing, and ecosystem development with Solana, Binance, etc."
+    ],
+    "opportunity_score": 7,
+    "opportunity_score_rationale": "Strong funding ($30.87M total, $13.5M recent Series A) and ambitious Web3 pivot create significant GTM needs. No visible GTM organization despite growing complexity. Partnership ecosystem with tier-1 crypto investors provides distribution potential. Risk: pivoting business model may create execution challenges. Opportunity: help navigate dual-product GTM (Web2 SaaS + Web3 DePIN) with differentiated strategies."
+  },
+  {
+    "company_name": "Coherence",
+    "website": "https://coherence.io",
+    "homepage_general": {
+      "value_proposition": "Simplest way to build and host multiplayer games with Unity, providing network engine, platform, and tools for developers of any technical level to create connected games",
+      "target_customer": "Unity game developers of any team size or technical background, from solo indie to mid-size studios",
+      "pricing_model_hint": "Revenue-based pricing: free for <$200k revenue/funding, paid for >$200k",
+      "free_trial_demo": "Full access for solo developers and small teams with <$200k revenue/funding",
+      "community_links": "Discord (Developer Discord), Community Forum (community.coherence.io), Documentation portal"
+    },
+    "pricing": {
+      "pricing_model": "subscription",
+      "price_tiers": [
+        {
+          "tier": "Indie/Free",
+          "price": "$0",
+          "notes": "Full access to all development tools for teams with <$200k revenue or funding"
+        },
+        {
+          "tier": "Studio",
+          "price": "Not disclosed (credit-based)",
+          "notes": "For studios with >$200k revenue/funding; credits consumed based on features used (Simulators, Storage, Lobbies)"
+        },
+        {
+          "tier": "Premium Support",
+          "price": "Custom pricing",
+          "notes": "Co-development services, multiplayer architecture planning, premium support from core team"
+        }
+      ],
+      "free_trial_details": "Permanent free tier for indies with <$200k revenue; only pay if game succeeds",
+      "educational_discount": "Not mentioned in search results"
+    },
+    "careers": {
+      "has_gtm_roles": false,
+      "gtm_job_titles": [],
+      "growth_signals": [
+        "Acquired by Roundtable Interactive Group (November 2025) backed by EMK Capital",
+        "Coherence 2.0 launched with production-proven features and indie-friendly pricing",
+        "Low-latency positional audio with echo cancellation (August 2025)",
+        "Unity Unite Conference 2025 presence (Barcelona, November 2025)",
+        "Nintendo Switch 2 Party sample port completed",
+        "Active developer showcase and case study program (Poncle, Bossa Studios, Lost Skies)"
+      ],
+      "total_open_positions": "No current job openings listed"
+    },
+    "blog_content": {
+      "recent_posts": [
+        {
+          "title": "coherence joins Roundtable Interactive Group",
+          "date": "November 10, 2025",
+          "summary": "Acquisition by RIG alongside Outright Games, Auroch Digital, GameMill Entertainment"
+        },
+        {
+          "title": "coherence at Unite 2025 in Barcelona",
+          "date": "November 24, 2025",
+          "summary": "Reflections on Unity conference, renewed focus on quality and multiplayer"
+        },
+        {
+          "title": "Low-latency, push-to-talk, positional audio with echo cancellation",
+          "date": "August 15, 2025",
+          "summary": "New audio features announcement"
+        }
+      ],
+      "publishing_frequency": "Regular posts, 2-4 per month including technical content and news",
+      "content_focus": "Product updates, developer case studies, technical tutorials, security features, event coverage, company news"
+    },
+    "about": {
+      "year_founded": "Not clearly specified (likely 2018-2020 based on founding team timeline)",
+      "acquisition_status": "Acquired by Roundtable Interactive Group (November 2025)",
+      "company_size": "11-50 employees",
+      "headquarters": "Malmö, Sweden"
+    },
+    "gtm_strategy_summary": "Coherence pursues pure developer-first PLG with revenue-based pricing that removes risk for indie developers. Recent acquisition by Roundtable Interactive Group (November 2025) suggests transition to portfolio company with potential shared GTM resources. Strategy emphasizes technical excellence, Unity ecosystem integration, and developer community engagement over traditional sales. Co-development services provide enterprise upsell.",
+    "gtm_gaps_opportunities": [
+      "Post-acquisition integration period - no current hiring suggests GTM transition underway; opportunity to define role within RIG portfolio",
+      "Small team (11-50) with no visible sales/marketing organization - Roundtable acquisition could enable shared GTM resources and enterprise sales channel",
+      "Unity-only focus limits TAM - potential opportunity to expand to Unreal Engine or other platforms, requiring new GTM approaches"
+    ],
+    "opportunity_score": 5,
+    "opportunity_score_rationale": "Recent acquisition creates uncertainty and opportunity. Roundtable Interactive Group (with Outright Games, GameMill) brings publishing expertise and distribution but integration is early-stage. Small team and PLG-only approach limits near-term GTM consulting opportunity. However, RIG portfolio strategy may create need for centralized GTM infrastructure serving multiple gaming brands. Wait-and-see approach recommended; revisit in 6-12 months post-integration."
+  }
+]

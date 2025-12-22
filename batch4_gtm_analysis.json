@@ -1,0 +1,487 @@
+[
+  {
+    "company_name": "Loopcloud",
+    "website": "https://www.loopcloud.com",
+    "homepage_general": {
+      "value_proposition": "AI-powered sample library service with 4+ million royalty-free samples. Allows producers to audition and tweak sounds in time/key with projects before download. Features harmonic/rhythmic sound matching, 8-track editor, and automatic tagging of local sample collections.",
+      "target_customer": "Music producers of all skill levels (Mid Size Business, Small Business, Enterprise, Freelance, Nonprofit, Government, Startup). Serves any producer regardless of experience level across all genres.",
+      "pricing_model_hint": "Subscription-based with three tiers (Artist, Studio, Professional) - monthly or annual billing. Points-based download system.",
+      "free_trial_demo": "14-day free trial with 100 points included",
+      "community_links": "Blog available at loopcloud.com/cloud/blog, parent company Loopmasters integration"
+    },
+    "pricing": {
+      "pricing_model": "subscription",
+      "price_tiers": [
+        {
+          "name": "Artist",
+          "monthly_price": "$7.99",
+          "annual_price": "$79.99",
+          "features": "100 sounds/month, 5GB cloud storage, all Loopcloud features, 8-track editor, daily free sounds, plugin suite"
+        },
+        {
+          "name": "Studio",
+          "monthly_price": "$11.99",
+          "annual_price": "$119.99",
+          "features": "300 sounds/month, 50GB cloud storage, all features + 10 free plugins with annual plan"
+        },
+        {
+          "name": "Professional",
+          "monthly_price": "$21.99",
+          "annual_price": "$219.99",
+          "features": "600 sounds/month, 250GB cloud storage, all features"
+        }
+      ],
+      "free_trial_details": "14-day free trial, 100 points on signup, can cancel/upgrade/downgrade anytime",
+      "educational_discount": "Not mentioned in search results"
+    },
+    "careers": {
+      "has_gtm_roles": false,
+      "gtm_job_titles": [],
+      "growth_signals": "Recently returned to founder Matt Pelling's ownership (Dec 2025) after Beatport acquisition in 2020. Major platform update (v7.5) in May 2025 showing active development.",
+      "total_open_positions": "No specific job listings found - search returned other 'Loop' companies instead"
+    },
+    "blog_content": {
+      "recent_posts": [
+        {
+          "title": "Loopmasters and Loopcloud returns to founder Matt Pelling",
+          "date": "December 2025",
+          "summary": "Company returns to independent ownership under original founder after Beatport era"
+        },
+        {
+          "title": "Loopcloud 7.5 – Here's What's New in our Latest Update",
+          "date": "May 6, 2025",
+          "summary": "Library tab improvements, MIDI files and synth presets expanded, easier Arturia Pigments preset installation"
+        },
+        {
+          "title": "Loopcloud 7 - The latest major update, powered by you",
+          "date": "2022",
+          "summary": "Major update with AI sample matching and enhanced features"
+        }
+      ],
+      "publishing_frequency": "Periodic - major updates and features, not regularly scheduled",
+      "content_focus": "Product updates, feature tutorials, artist spotlights, genre exploration, sampling tips and inspiration"
+    },
+    "about": {
+      "year_founded": "2017 (Loopcloud platform), Parent company Loopmasters founded 2003",
+      "acquisition_status": "Acquired by Beatport in 2020, returned to founder Matt Pelling in December 2025. Beatport retained Plugin Boutique.",
+      "company_size": "Part of Loopmasters (11-50 employees estimated)",
+      "headquarters": "Eastbourne, United Kingdom"
+    },
+    "gtm_strategy_summary": "Loopcloud employs a freemium-to-subscription model with aggressive 14-day trial onboarding. Their GTM relies heavily on product-led growth through DAW integration and viral features (daily free sounds, AI matching). The recent return to founder ownership signals potential strategic shifts and renewed independence, but lack of visible sales/marketing roles suggests reliance on organic/community-driven growth.",
+    "gtm_gaps_opportunities": [
+      "No visible GTM team structure or active hiring - opportunity to build dedicated sales/marketing function to scale beyond organic growth",
+      "Educational discount program not mentioned - major opportunity to capture student/academic market like competitors",
+      "Founder transition creates opportunity for GTM consulting on go-to-market strategy refresh and market expansion planning",
+      "Blog publishing is inconsistent - opportunity to develop content marketing engine and SEO strategy"
+    ],
+    "opportunity_score": 7
+  },
+  {
+    "company_name": "ADSR Sounds",
+    "website": "https://www.adsrsounds.com",
+    "homepage_general": {
+      "value_proposition": "Complete 'One stop shop' for electronic music producers offering: weekly deals on VST plugins/audio software, 750+ hours of video course instruction, thousands of royalty-free sample packs/loops/presets, and free ADSR Sample Manager.",
+      "target_customer": "Music producers, musicians, DJs, designers, and engineers working across different genres. Targets both beginners and professionals seeking production education and tools.",
+      "pricing_model_hint": "Hybrid model: Course subscriptions ($99/year), individual product sales with heavy discounting (up to 93% off), bundle deals, loyalty credits program.",
+      "free_trial_demo": "7-day free trial for course subscription, free samples/presets available",
+      "community_links": "Blog, ADSR Collective (separate record label entity at adsrcollective.com)"
+    },
+    "pricing": {
+      "pricing_model": "both",
+      "price_tiers": [
+        {
+          "name": "Course Subscription",
+          "monthly_price": "Not specified",
+          "annual_price": "$99",
+          "features": "Unlimited access to 750+ hours of courses, new content added weekly, all genres and skill levels"
+        },
+        {
+          "name": "Individual Products",
+          "monthly_price": "Varies",
+          "annual_price": "N/A",
+          "features": "One-time purchases of samples, presets, plugins - heavy sales/discounts (avg $61 saved per customer), earn 1 credit per $5 spent"
+        }
+      ],
+      "free_trial_details": "7-day free trial for course subscription with full access to all courses",
+      "educational_discount": "Not mentioned in search results"
+    },
+    "careers": {
+      "has_gtm_roles": false,
+      "gtm_job_titles": [],
+      "growth_signals": "Company is 'expanding and has recently hired new employees' per ZoomInfo. Active product releases (Techno Presets for Orbit, March 2025). Strong customer testimonials about service quality.",
+      "total_open_positions": "No specific listings found - company has 11-50 employees (35 employees, $2M revenue per some sources)"
+    },
+    "blog_content": {
+      "recent_posts": [
+        {
+          "title": "Top Free Music Production Plugins for 2025",
+          "date": "2025",
+          "summary": "Features Nocta synthesizer, Doom Compressor, The Masker - game-changing free plugins for producers"
+        },
+        {
+          "title": "Audio Plugin News 2025",
+          "date": "2025",
+          "summary": "Coverage of latest VST releases, updates, innovations including AI-assisted mixing, spectral synthesis trends"
+        },
+        {
+          "title": "ADSR Sounds releases Techno – Presets for Orbit",
+          "date": "March 2025",
+          "summary": "55 presets for Orbit Euclidean sequencer plugin for techno production"
+        }
+      ],
+      "publishing_frequency": "Active and ongoing - product releases, plugin news, tutorials published regularly",
+      "content_focus": "Audio plugin reviews/news, free plugin highlights, product tutorials, music production education, VST trend analysis"
+    },
+    "about": {
+      "year_founded": "2012",
+      "acquisition_status": "Independent, privately held",
+      "company_size": "11-50 employees (35 employees, $2M revenue reported)",
+      "headquarters": "Kowloon City, Hong Kong (Unit 701-702, 7/F., 8 Jordan Road, Yaumatei) with presence in Edinburgh, UK"
+    },
+    "gtm_strategy_summary": "ADSR runs a high-volume, discount-driven GTM strategy focused on deal aggregation and email marketing. They position as a marketplace/curator rather than pure product company. Heavy reliance on affiliate marketing, flash sales (up to 97% off), and loyalty programs. Education subscription provides recurring revenue anchor while product sales drive transaction volume.",
+    "gtm_gaps_opportunities": [
+      "No educational pricing despite being education-focused - huge missed opportunity for student market penetration",
+      "GTM team not visible/actively hiring - likely lean operation relying on automated marketing, could benefit from dedicated growth team",
+      "Geographic presence (Hong Kong + Edinburgh) suggests international ambitions but unclear GTM strategy for market-specific approaches",
+      "Strong content engine but could leverage SEO/content marketing more strategically vs. just product announcements"
+    ],
+    "opportunity_score": 6
+  },
+  {
+    "company_name": "Avid (Pro Tools)",
+    "website": "https://www.avid.com",
+    "homepage_general": {
+      "value_proposition": "Industry-standard DAW for professional audio with flagship Pro Tools software. Seamless hardware integration (HDX system), real-time collaboration features, Inner Circle Rewards ($3000+ plugins/content), Sonic Drop exclusive samples. Positioned as tool for 'creating the inspiring content' in film, TV, music, broadcast.",
+      "target_customer": "Professional creators, production teams, media enterprises in film/TV/music/broadcast. Tiered approach: beginners (Intro-free), aspiring musicians (Artist), experienced creators (Studio), industry professionals (Ultimate). Education market (compatible with teaching environments).",
+      "pricing_model_hint": "Both subscription and perpetual licenses. Reintroduced perpetual Sept 2023 after brief subscription-only period. Monthly/annual subscriptions available.",
+      "free_trial_demo": "Pro Tools Intro - free version with basic features (8 audio tracks, basic editing, plugins)",
+      "community_links": "Production Expert (third-party but Avid-trusted), Pro Tools Training blog, official resource center"
+    },
+    "pricing": {
+      "pricing_model": "both",
+      "price_tiers": [
+        {
+          "name": "Pro Tools Intro",
+          "monthly_price": "Free",
+          "annual_price": "Free",
+          "features": "8 audio tracks, basic editing, selection of plugins/virtual instruments - for beginners"
+        },
+        {
+          "name": "Pro Tools Artist",
+          "monthly_price": "$9.99",
+          "annual_price": "$120",
+          "features": "For aspiring musicians and creators, more features than Intro"
+        },
+        {
+          "name": "Pro Tools Studio",
+          "monthly_price": "$34.99",
+          "annual_price": "$299",
+          "features": "Advanced tools for experienced creators, extensive mixing/recording capabilities. Perpetual: $599"
+        },
+        {
+          "name": "Pro Tools Ultimate",
+          "monthly_price": "$99.99",
+          "annual_price": "$599",
+          "features": "Industry professionals, large-scale complex projects. Perpetual: $1,499 (reduced from $2,599). Update & Support Plan: $499/year"
+        }
+      ],
+      "free_trial_details": "Pro Tools Intro is permanently free with 8 tracks and basic features",
+      "educational_discount": "Yes - educational discounts available for students and teachers (specific pricing not detailed in search)"
+    },
+    "careers": {
+      "has_gtm_roles": true,
+      "gtm_job_titles": [
+        "Marketing roles (specific titles not found but company actively hiring)",
+        "Sales positions (indicated by size and structure)"
+      ],
+      "growth_signals": "Major product updates (2025.12 with Audio Vivid, 2025.10 with 360 Reality Audio, 2025.6 with Splice integration). Acquired by STG for $1.4B in Nov 2023 - went private. Quarterly release cadence shows strong R&D investment.",
+      "total_open_positions": "205,025 LinkedIn followers, multiple positions available (check avid.wd5.myworkdayjobs.com/AVID)"
+    },
+    "blog_content": {
+      "recent_posts": [
+        {
+          "title": "Pro Tools 2025.12 delivers Audio Vivid support and more",
+          "date": "December 2025",
+          "summary": "Audio Vivid immersive mixing, Bounce Factory Lite integration, new ARA plugins (VoiceWunder, VOIS, Vovious), Inner Circle rewards updates"
+        },
+        {
+          "title": "Pro Tools 2025.10 Update",
+          "date": "October 2025",
+          "summary": "360 Reality Audio support, new Learn tab with interactive tutorials, Bounce Factory 2 (10x faster processing)"
+        },
+        {
+          "title": "Pro Tools 2025.6 Update",
+          "date": "June 17, 2025",
+          "summary": "Splice integration, speech-to-text transcription, podcast workflow enhancements, ADR and reconform partner integrations"
+        }
+      ],
+      "publishing_frequency": "Quarterly major releases with frequent feature updates - very active development blog",
+      "content_focus": "Product updates and new features, technical deep-dives, immersive audio trends, workflow optimization, partnership announcements (Splice, SoundFlow)"
+    },
+    "about": {
+      "year_founded": "1987 (August, by Bill Warner)",
+      "acquisition_status": "Acquired by STG (private equity) for $1.4B in November 2023, now private. Previously acquired Digidesign (1995, $200M - brought Pro Tools), Orad Hi Tec ($60M, 2015). Sold Softimage to Autodesk ($35M, 2008).",
+      "company_size": "Not specified but significant - publicly traded for 30+ years until 2023, global presence, multiple product lines",
+      "headquarters": "Burlington, Massachusetts, USA"
+    },
+    "gtm_strategy_summary": "Avid employs an enterprise GTM motion with channel partners (Sweetwater, B&H Photo), freemium entry point (Intro), and land-and-expand through tiered offerings. Heavy emphasis on professional ecosystem lock-in via hardware integration and industry partnerships. Post-STG acquisition (2023) shows PE-backed growth strategy with aggressive feature velocity and hybrid licensing to maximize LTV.",
+    "gtm_gaps_opportunities": [
+      "Recent $1.4B PE acquisition (STG) suggests aggressive growth mandates - prime opportunity for GTM consulting on customer acquisition optimization and market expansion",
+      "Pricing backlash noted in some forums - opportunity for pricing strategy consulting and customer communication",
+      "Strong product velocity but could improve developer/creator community engagement and advocacy programs beyond Inner Circle",
+      "Transition to private company creates opportunity to build modern demand gen and ABM strategies without public market constraints"
+    ],
+    "opportunity_score": 8
+  },
+  {
+    "company_name": "Steinberg (Cubase)",
+    "website": "https://www.steinberg.net",
+    "homepage_general": {
+      "value_proposition": "Professional music production DAW 'trusted by pros and beginners alike - fast, intuitive, built for any genre, level, or budget.' Emphasizes pristine audio quality, comprehensive editing tools, advanced features (Logical Editor for automation/mixing). Positions as 'software as centerpiece of studio operations' with 'insanely good value.'",
+      "target_customer": "Three-tier targeting: Elements (beginners allowing productive work with few compromises), Artist (instrumentalists/songwriters, music-first creators), Pro (serious music producers, composers, audio engineers prioritizing capability over simplicity). Also targets educational institutions.",
+      "pricing_model_hint": "Perpetual license model with three versions (Elements, Artist, Pro). Educational discounts available. Occasional sales (up to 42% off).",
+      "free_trial_demo": "30-day free trial for most software including Cubase and Dorico",
+      "community_links": "Steinberg Forums (active community), educational resources, training programs"
+    },
+    "pricing": {
+      "pricing_model": "perpetual",
+      "price_tiers": [
+        {
+          "name": "Cubase Elements 15",
+          "monthly_price": "N/A",
+          "annual_price": "N/A",
+          "features": "€99.99 / $99.99 - Entry level, allows surprisingly productive work with few compromises"
+        },
+        {
+          "name": "Cubase Artist 15",
+          "monthly_price": "N/A",
+          "annual_price": "N/A",
+          "features": "€329 / $329.99 - For instrumentalists and songwriters, most tools at lower price"
+        },
+        {
+          "name": "Cubase Pro 15",
+          "monthly_price": "N/A",
+          "annual_price": "N/A",
+          "features": "€579 / $579.99 - Enhanced functions like Logical Editor, deeper automation/mixing control"
+        }
+      ],
+      "free_trial_details": "30-day free trial version of most software including Cubase and Dorico with full features",
+      "educational_discount": "Yes - 40% student discount available through Student Beans. Discounted prices for teachers, schools, institutions. Educational licenses excluded from some promotional sales."
+    },
+    "careers": {
+      "has_gtm_roles": true,
+      "gtm_job_titles": [
+        "Marketing professionals",
+        "Product managers",
+        "Technical support specialists"
+      ],
+      "growth_signals": "Major version releases (Cubase 15 Nov 2025, Cubase 14.0.20 March 2025). Active mobile app development (Cubasis 3.8 Dec 2025). Ending eLicenser May 2025. 134 jobs on LinkedIn, active hiring. Owned by Yamaha (deep resources).",
+      "total_open_positions": "134 Steinberg jobs in United States on LinkedIn, ~15 on ZipRecruiter ($16-$132/hr range)"
+    },
+    "blog_content": {
+      "recent_posts": [
+        {
+          "title": "Steinberg Cubase 15 Now Available",
+          "date": "November 7, 2025",
+          "summary": "AI stem separation, melodic pattern generator (Pattern Editor), new modulators, redesigned Expression Maps, UltraShaper dynamics, new PitchShifter"
+        },
+        {
+          "title": "Steinberg Cubasis 3.8",
+          "date": "December 17, 2025",
+          "summary": "Mobile app update with Amp Rack and Bass Amp suites, new Verve/Etude piano instruments, 40% discount promo through Jan 7 2026"
+        },
+        {
+          "title": "Cubase 14.0.20 Update",
+          "date": "March 2025",
+          "summary": "Pattern and Score Editor improvements, Audio Export options, Audio Segment Detection feature"
+        }
+      ],
+      "publishing_frequency": "Regular major releases (quarterly to semi-annual) with maintenance updates between. Active on third-party sites (Sound on Sound, Synthtopia, Gearnews).",
+      "content_focus": "Product announcements, feature deep-dives, technical capabilities, composer/producer workflows, educational content, hardware integration news"
+    },
+    "about": {
+      "year_founded": "1984",
+      "acquisition_status": "Acquired by Yamaha Corporation in January 2005 for $28.5M (previously owned by Pinnacle Systems 2003-2004). Wholly owned subsidiary of Yamaha since 2005. Hardware products now rebranded under Yamaha.",
+      "company_size": "350+ employees worldwide, millions of users. One of world's largest audio software/hardware manufacturers.",
+      "headquarters": "Hamburg, Germany"
+    },
+    "gtm_strategy_summary": "Steinberg leverages Yamaha's global distribution and hardware ecosystem for integrated GTM. Uses traditional perpetual licensing with generous trial periods to drive conversions. Strong focus on education market (40% discounts, institutional programs) builds long-term brand loyalty. Product-led growth via feature differentiation across three tiers enables market segmentation from beginners to pros.",
+    "gtm_gaps_opportunities": [
+      "No subscription model while competitors offer it - opportunity to introduce subscription tier for monthly cash flow and lower entry barrier",
+      "Strong Yamaha corporate backing but could benefit from more aggressive digital marketing and influencer partnerships vs. traditional channels",
+      "Educational program exists but could be expanded with certification programs, campus rep programs, and deeper academic partnerships",
+      "134+ job listings suggest growth phase - opportunity for GTM consulting on sales enablement, demand generation, and market expansion into non-traditional segments"
+    ],
+    "opportunity_score": 7
+  },
+  {
+    "company_name": "PreSonus (Studio One)",
+    "website": "https://www.presonus.com",
+    "homepage_general": {
+      "value_proposition": "Award-winning DAW with complete music production ecosystem including plugins, loops/samples, collaboration workspaces, cloud storage, learning resources. Studio One Pro 7 features: clip launcher, AI stem separation, updated Impact XT, Splice integration, refreshed GUI. Positioned as 'most affordable high-quality DAW' with superb PreSonus hardware integration.",
+      "target_customer": "Mid-size businesses, small businesses, enterprises, freelancers, nonprofits, government, startups. Guitarists and instrumentalists (future focus noted). Both aspiring and professional musicians. Note: Discontinued Artist and Prime editions - Pro is now sole offering.",
+      "pricing_model_hint": "Hybrid: Perpetual license ($199.99) or subscription-style 'rent-to-own' model ($19.99/mo or $179.99/yr annual). Unique positioning vs pure subscription.",
+      "free_trial_demo": "Previously had free Studio One Prime edition (discontinued with v7). Current trial options not clearly specified.",
+      "community_links": "PreSonus blog, Studio One User Forum, Fender parent company resources"
+    },
+    "pricing": {
+      "pricing_model": "both",
+      "price_tiers": [
+        {
+          "name": "Pro Tools Pro 7 - Perpetual",
+          "monthly_price": "N/A",
+          "annual_price": "N/A",
+          "features": "$199.99 one-time - perpetual license with 1 year of updates included (yours to keep)"
+        },
+        {
+          "name": "Pro+ Monthly",
+          "monthly_price": "$19.99",
+          "annual_price": "N/A",
+          "features": "Monthly access to Studio One Pro 7 and Pro+ ecosystem extras"
+        },
+        {
+          "name": "Pro+ Annual (with Perpetual)",
+          "monthly_price": "N/A",
+          "annual_price": "$179.99",
+          "features": "Perpetual license + annual Pro+ extras - less than standalone perpetual price. Rent-to-own model: payments go toward ownership."
+        },
+        {
+          "name": "Studio One+ Hybrid",
+          "monthly_price": "N/A",
+          "annual_price": "$179.99 (12 months)",
+          "features": "Perpetual license awarded after 12-month period, includes Pro+ access during subscription"
+        }
+      ],
+      "free_trial_details": "Not specified in search results (previously Studio One Prime was free version but discontinued)",
+      "educational_discount": "Discounted upgrade licenses available for previous Studio One users - specific edu pricing not detailed"
+    },
+    "careers": {
+      "has_gtm_roles": true,
+      "gtm_job_titles": [
+        "Marketing Manager",
+        "Senior Product Manager for Accessories",
+        "LATAM Key Account Manager",
+        "Lifecycle CRM Specialist"
+      ],
+      "growth_signals": "Acquired by Fender (Nov 2021, $100M+ revenue). 7+ jobs on Indeed, 10 on LinkedIn. Active 2025 roadmap (3-4 quarterly releases planned). Major v7.2 update June 2025. Returning to NAMM 2025. Part of Fender's ecosystem strategy.",
+      "total_open_positions": "7 on Indeed, 10 on LinkedIn - roles in engineering, product, marketing, sales, support"
+    },
+    "blog_content": {
+      "recent_posts": [
+        {
+          "title": "PreSonus Returns to NAMM 2025! Here's What to Expect",
+          "date": "2025",
+          "summary": "Company returning to major trade show, signals active market presence"
+        },
+        {
+          "title": "Studio One Pro 7.2 Update",
+          "date": "June 3, 2025",
+          "summary": "Sub Zero Bass instrument, Tuner2 revamp, Nashville Number System support, Windows on ARM beta"
+        },
+        {
+          "title": "My PreSonus Blog Tips Are Ending",
+          "date": "End of 2025",
+          "summary": "Blog tip series ending, Sweetwater publishing 'The Huge Book of Studio One Tips and Tricks' instead (7 free revisions)"
+        }
+      ],
+      "publishing_frequency": "Quarterly product releases, regular blog content but shifting strategy (ending regular tips series). Active on third-party sites.",
+      "content_focus": "Product updates and new features, workflow tips and tricks (transitioning to book format), guitarist/instrumentalist content (future focus), hardware integration guides"
+    },
+    "about": {
+      "year_founded": "1995",
+      "acquisition_status": "Acquired by Fender Musical Instruments Corporation (FMIC) on November 1, 2021. Revenue exceeded $100M at time of acquisition. Financial terms not disclosed. Part of Fender's brand portfolio alongside Gretsch, Jackson, EVH, Bigsby.",
+      "company_size": "140+ employees worldwide, ~90 in Baton Rouge. $8M headquarters/R&D facility on Highland Road opened ~8 years before acquisition.",
+      "headquarters": "Baton Rouge, Louisiana, USA (original founders from LSU electrical engineering)"
+    },
+    "gtm_strategy_summary": "PreSonus operates under Fender's ecosystem GTM strategy focusing on hardware-software integration for end-to-end creator experience. Unique rent-to-own model reduces friction vs pure subscription while building ownership equity. Post-acquisition (2021) pivoted to single Pro-only offering with pricing controversy, suggesting aggressive simplification strategy. Strong focus on quarterly release cadence and guitarist market expansion aligns with Fender DNA.",
+    "gtm_gaps_opportunities": [
+      "Significant pricing backlash from v7 launch - opportunity for customer communication strategy and win-back campaigns for alienated users",
+      "Discontinued free/Artist tiers eliminates entry funnel - opportunity to rebuild bottom-of-funnel acquisition strategy (free tier or extended trials)",
+      "Fender acquisition creates opportunity for cross-sell/bundle GTM leveraging guitar buyer base - consulting on integrated campaigns",
+      "Active GTM hiring (CRM specialist, Key Account Manager) suggests growth investment - opportunity for sales enablement and demand gen optimization",
+      "Ending blog tips series creates content gap - opportunity for modern content marketing strategy and community engagement programs"
+    ],
+    "opportunity_score": 8
+  },
+  {
+    "company_name": "Ableton",
+    "website": "https://www.ableton.com",
+    "homepage_general": {
+      "value_proposition": "'Software as an instrument' philosophy enabling spontaneous workflow. Unique value for electronic music production, loop-based composition, live performance. Comprehensive toolset reducing need for multiple applications. Live 12 Suite offers 20 instruments, 33 sound packs, 58 audio effects. Perpetual licenses offer long-term value vs recurring subscriptions.",
+      "target_customer": "Electronic musicians, producers, live performers needing stability and flexibility. Excels for electronic music, loop-based composition, live stage performance. Targets DJs, experimental artists, composers. Three tiers: Intro (beginners, accessible entry), Standard (serious producers, creative freedom), Suite (professional sound designers, complete toolkit).",
+      "pricing_model_hint": "Perpetual licenses with rent-to-own option (not subscription). Three editions: Intro ($99), Standard ($449), Suite ($749). Educational discounts available (40% off).",
+      "free_trial_demo": "No free version (major differentiator vs competitors). Minimum entry $99 for Intro.",
+      "community_links": "Ableton.com/blog (highly active), educational resources, forums, Input/Output artist series, MUTEK partnerships"
+    },
+    "pricing": {
+      "pricing_model": "perpetual",
+      "price_tiers": [
+        {
+          "name": "Live 12 Intro",
+          "monthly_price": "N/A",
+          "annual_price": "N/A",
+          "features": "$99 - Perpetual license. Accessible entry point, basic Ableton workflow, limited instruments/effects. Educational: 40% off"
+        },
+        {
+          "name": "Live 12 Standard",
+          "monthly_price": "N/A",
+          "annual_price": "N/A",
+          "features": "$449 ($373 on sale) - Perpetual license. 13 instruments, 16 sound packs, 42 effects. Far more creative freedom. Educational: 40% off"
+        },
+        {
+          "name": "Live 12 Suite",
+          "monthly_price": "N/A (Rent-to-own: ~$31.17/mo edu)",
+          "annual_price": "N/A",
+          "features": "$749 ($562 on sale) - Perpetual license. 20 instruments, 33 sound packs, 58 effects. Complete professional toolkit. Rent-to-own available (12 payments = ownership). Educational: 40% off"
+        }
+      ],
+      "free_trial_details": "No free version - significant differentiator from competitors. Minimum entry $99 for Intro edition.",
+      "educational_discount": "40% discount for students 18+, teachers (full/part-time 20+ hrs/week), parents buying for students under 18. Can buy for family/friends who qualify. EDU license has identical features, no limitations after enrollment ends. Rent-to-own edu: ~$31.17/month for 12 months to own Suite."
+    },
+    "careers": {
+      "has_gtm_roles": true,
+      "gtm_job_titles": [
+        "Marketing professionals (indicated but not specifically listed)",
+        "Sales roles (indicated but not specifically listed)"
+      ],
+      "growth_signals": "Major releases (Live 12.3 Nov 2025 with stem separation/Splice, Live 12.2 June 2025, Move 1.8 update). Acquired Cycling '74 (Max/MSP) in June 2017. Push 3 standalone hardware (May 2023). Active content (artist features, MUTEK events). 350+ employees from 30+ countries.",
+      "total_open_positions": "55 Ableton jobs on LinkedIn, applications through ableton.com/en/jobs/ official portal"
+    },
+    "blog_content": {
+      "recent_posts": [
+        {
+          "title": "Ableton Live 12.3 is out now – see what's new",
+          "date": "November 25, 2025",
+          "summary": "Stem Separation for Suite, Splice integration, Bounce Groups, Paste Bounced Audio, reimagined Auto Pan-Tremolo, A/B feature for all devices"
+        },
+        {
+          "title": "Get 25% off Ableton Live 12.3 – coming Nov 25 – plus 20% off Ableton hardware",
+          "date": "November 2025",
+          "summary": "Major sale promotion ahead of 12.3 release"
+        },
+        {
+          "title": "Ableton Live 12.2 is Coming on June 11",
+          "date": "June 11, 2025",
+          "summary": "Bounce to New Track, improved search/browsing experience, streamlined creative workflows"
+        }
+      ],
+      "publishing_frequency": "Very active and consistent - multiple posts per month including product updates, artist features (Input/Output series), technical tutorials, philosophy pieces",
+      "content_focus": "Product updates and technical features, artist stories and workflows (MXGPU, Ouri, KMRU, Jason Graves), live performance techniques, creative philosophy, hardware integration (Push, Move), community events (MUTEK)"
+    },
+    "about": {
+      "year_founded": "1999",
+      "acquisition_status": "Independent. Made acquisition: Cycling '74 (Max/MSP developers) acquired June 2017. No parent company - remains independent German company.",
+      "company_size": "350+ employees from 30+ countries",
+      "headquarters": "Prenzlauer Berg district, Berlin, Germany (HQ) with offices in Pasadena, California and Tokyo, Japan"
+    },
+    "gtm_strategy_summary": "Ableton runs a premium, artist-first GTM strategy emphasizing community and creative philosophy over aggressive sales tactics. No free tier creates quality barrier while rent-to-own reduces friction. Heavy investment in content marketing (artist features, tutorials, philosophy) builds brand as creative partner vs tool vendor. Educational program (40% off, rent-to-own) captures early-career artists for long-term loyalty. Independent status enables mission-driven vs metrics-driven GTM.",
+    "gtm_gaps_opportunities": [
+      "No free tier is principled but limits top-of-funnel - opportunity for limited-feature demo or extended trial to compete with Pro Tools Intro",
+      "55 job listings and 350+ employees suggest scale but GTM roles not prominently featured - opportunity to build structured sales/marketing teams for enterprise/institutional expansion",
+      "Rent-to-own is unique value prop but not prominently marketed - opportunity for campaign highlighting ownership benefits vs subscription competitors",
+      "Strong European presence (Berlin HQ) but US/APAC GTM could be strengthened - opportunity for regional market expansion strategies",
+      "Content marketing is exceptional but could leverage more influencer/creator partnerships and affiliate programs to scale reach"
+    ],
+    "opportunity_score": 6
+  }
+]
