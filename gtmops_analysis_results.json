@@ -1,0 +1,1026 @@
+{
+  "analysis_date": "2026-01-04T07:13:07.848952",
+  "total_prospects": 420,
+  "qualified_count": 269,
+  "dataset_analysis": {
+    "total": 420,
+    "by_role_type": {
+      "revenue_ops": 74,
+      "sales_ops": 97,
+      "marketing_ops": 52,
+      "other": 197
+    },
+    "senior_roles": 90,
+    "recent_postings": 223,
+    "with_email": 420
+  },
+  "top_prospects": [
+    {
+      "rank": 1,
+      "company": "Auterion",
+      "job_title": "Senior Manager Revenue Operations",
+      "location": "Arlington, VA",
+      "domain": "auterion.com",
+      "contact_name": "Alec Fleming",
+      "contact_title": "Global Recruitment Manager",
+      "contact_email": "Alec@auterion.com",
+      "contact_linkedin": "https://uk.linkedin.com/in/alec-fleming-6aa443a3",
+      "score": 100,
+      "score_breakdown": {
+        "recency": 25,
+        "seniority": 25,
+        "role_type": 25,
+        "contact_completeness": 25
+      },
+      "qualifies": true
+    },
+    {
+      "rank": 2,
+      "company": "Snorkel AI",
+      "job_title": "Head of Revenue Operations",
+      "location": "San Francisco, CA",
+      "domain": "snorkel.ai",
+      "contact_name": "Bobby Shoker",
+      "contact_title": "Chief Financial Officer at Veza",
+      "contact_email": "Bobby.Shoker@snorkel.ai",
+      "contact_linkedin": "https://www.linkedin.com/in/bobby-shoker-5144931",
+      "score": 100,
+      "score_breakdown": {
+        "recency": 25,
+        "seniority": 25,
+        "role_type": 25,
+        "contact_completeness": 25
+      },
+      "qualifies": true
+    },
+    {
+      "rank": 3,
+      "company": "Better Health",
+      "job_title": "Director, Inside Sales & Revenue Operations",
+      "location": "United States",
+      "domain": "joinbetter.com",
+      "contact_name": "Matt Aster",
+      "contact_title": "Growth Marketing",
+      "contact_email": "Matt.Aster@joinbetter.com",
+      "contact_linkedin": "https://www.linkedin.com/in/mattaster/",
+      "score": 100,
+      "score_breakdown": {
+        "recency": 25,
+        "seniority": 25,
+        "role_type": 25,
+        "contact_completeness": 25
+      },
+      "qualifies": true
+    },
+    {
+      "rank": 4,
+      "company": "GC AI",
+      "job_title": "Head of Revenue Operations",
+      "location": "San Mateo, CA",
+      "domain": "gc.ai",
+      "contact_name": "Andrew Conley",
+      "contact_title": "Chief Revenue Officer (CRO)",
+      "contact_email": "andrew@gc.ai",
+      "contact_linkedin": "https://www.linkedin.com/in/andrewmconley",
+      "score": 100,
+      "score_breakdown": {
+        "recency": 25,
+        "seniority": 25,
+        "role_type": 25,
+        "contact_completeness": 25
+      },
+      "qualifies": true
+    },
+    {
+      "rank": 5,
+      "company": "Wood Mackenzie",
+      "job_title": "Principal Specialist - Sales Operations",
+      "location": "Houston, TX",
+      "domain": "woodmac.com",
+      "contact_name": "Anil Swani",
+      "contact_title": "Vice President, Head of Sales, North & South America",
+      "contact_email": "swani.houston@gmail.com",
+      "contact_linkedin": "https://www.linkedin.com/in/anil-swani",
+      "score": 95,
+      "score_breakdown": {
+        "recency": 25,
+        "seniority": 25,
+        "role_type": 20,
+        "contact_completeness": 25
+      },
+      "qualifies": true
+    },
+    {
+      "rank": 6,
+      "company": "Accelecom",
+      "job_title": "Head of Sales Operations & Enablement - GA",
+      "location": "Atlanta, GA",
+      "domain": "accelecom.net",
+      "contact_name": "Joe Sheehan",
+      "contact_title": "Chief Sales Officer (CSO)",
+      "contact_email": "Joe.Sheehan@accelecom.net",
+      "contact_linkedin": "https://www.linkedin.com/in/joe-sheehan-atl",
+      "score": 95,
+      "score_breakdown": {
+        "recency": 25,
+        "seniority": 25,
+        "role_type": 20,
+        "contact_completeness": 25
+      },
+      "qualifies": true
+    },
+    {
+      "rank": 7,
+      "company": "Morgan Stanley",
+      "job_title": "Inside Sales and Sales Operations VP",
+      "location": "Alpharetta, GA",
+      "domain": "morganstanley.com",
+      "contact_name": "Mary Foreman",
+      "contact_title": "Managing Director - Global Head of Sales - MSFS at Morgan Stanley",
+      "contact_email": "mary.foreman@morganstanley.com",
+      "contact_linkedin": "https://www.linkedin.com/in/mary-foreman-5a511817",
+      "score": 95,
+      "score_breakdown": {
+        "recency": 25,
+        "seniority": 25,
+        "role_type": 20,
+        "contact_completeness": 25
+      },
+      "qualifies": true
+    },
+    {
+      "rank": 8,
+      "company": "Jobot",
+      "job_title": "Director of Sales Operations",
+      "location": "Cupertino, CA",
+      "domain": "jobot.com",
+      "contact_name": "Brendan Thomas",
+      "contact_title": "Director of Sales Operations at Jobot",
+      "contact_email": "Brendan.Thomas@jobot.com",
+      "contact_linkedin": "https://linkedin.com/in/brendanwthomas",
+      "score": 95,
+      "score_breakdown": {
+        "recency": 25,
+        "seniority": 25,
+        "role_type": 20,
+        "contact_completeness": 25
+      },
+      "qualifies": true
+    },
+    {
+      "rank": 9,
+      "company": "McAfee",
+      "job_title": "Senior Manager of Sales Operations - OEM",
+      "location": "San Jose, CA",
+      "domain": "mcafee.com",
+      "contact_name": "Craig Boundy",
+      "contact_title": "Senior Manager of Sales Operations - OEM at McAfee",
+      "contact_email": "CBoundy@mcafee.com",
+      "contact_linkedin": "https://linkedin.com/in/craig-boundy-651b599",
+      "score": 95,
+      "score_breakdown": {
+        "recency": 25,
+        "seniority": 25,
+        "role_type": 20,
+        "contact_completeness": 25
+      },
+      "qualifies": true
+    },
+    {
+      "rank": 10,
+      "company": "Udemy",
+      "job_title": "Senior Manager, Sales Operations",
+      "location": "Denver, CO",
+      "domain": "udemy.com",
+      "contact_name": "Esther Friend",
+      "contact_title": "VP of Revenue Operations",
+      "contact_email": "Esther.Friend@udemy.com",
+      "contact_linkedin": "https://www.linkedin.com/in/pradeephyadav",
+      "score": 95,
+      "score_breakdown": {
+        "recency": 25,
+        "seniority": 25,
+        "role_type": 20,
+        "contact_completeness": 25
+      },
+      "qualifies": true
+    },
+    {
+      "rank": 11,
+      "company": "Octopus Deploy",
+      "job_title": "VP, Revenue Operations",
+      "location": "United States",
+      "domain": "octopus.com",
+      "contact_name": "Harsh Sabikhi",
+      "contact_title": "Senior Vice President, Revenue",
+      "contact_email": "harsh.sabikhi@octopus.com",
+      "contact_linkedin": "https://www.linkedin.com/in/harshsabikhi",
+      "score": 95,
+      "score_breakdown": {
+        "recency": 20,
+        "seniority": 25,
+        "role_type": 25,
+        "contact_completeness": 25
+      },
+      "qualifies": true
+    },
+    {
+      "rank": 12,
+      "company": "ReversingLabs",
+      "job_title": "Director, Revenue Operations",
+      "location": "United States",
+      "domain": "reversinglabs.com",
+      "contact_name": "Han Wang",
+      "contact_title": "Vice President of Revenue Operations",
+      "contact_email": "Han.Wang@reversinglabs.com",
+      "contact_linkedin": "https://www.linkedin.com/in/hanwangmkt",
+      "score": 95,
+      "score_breakdown": {
+        "recency": 20,
+        "seniority": 25,
+        "role_type": 25,
+        "contact_completeness": 25
+      },
+      "qualifies": true
+    },
+    {
+      "rank": 13,
+      "company": "Flex",
+      "job_title": "Revenue Operations Lead",
+      "location": "San Francisco Bay Area",
+      "domain": "getflex.com",
+      "contact_name": "Adam Bailey",
+      "contact_title": "VP of GTM",
+      "contact_email": "Adam.Bailey@getflex.com",
+      "contact_linkedin": "https://www.linkedin.com/in/adam-bailey-5435b59b",
+      "score": 95,
+      "score_breakdown": {
+        "recency": 20,
+        "seniority": 25,
+        "role_type": 25,
+        "contact_completeness": 25
+      },
+      "qualifies": true
+    },
+    {
+      "rank": 14,
+      "company": "Fyxer AI",
+      "job_title": "Head of Revenue Operations",
+      "location": "New York, United States",
+      "domain": "fyxer.com",
+      "contact_name": "Jonathon Blackburn",
+      "contact_title": "Chief Revenue Officer (CRO)",
+      "contact_email": "Jonathon.Blackburn@fyxer.com",
+      "contact_linkedin": "https://www.linkedin.com/in/jonathon-blackburn-aa704a44",
+      "score": 95,
+      "score_breakdown": {
+        "recency": 20,
+        "seniority": 25,
+        "role_type": 25,
+        "contact_completeness": 25
+      },
+      "qualifies": true
+    },
+    {
+      "rank": 15,
+      "company": "Airwallex",
+      "job_title": "Senior Manager, Deal Strategy & Monetization, Revenue Operations",
+      "location": "San Francisco, CA",
+      "domain": "airwallex.com",
+      "contact_name": "Will Drinkwater",
+      "contact_title": "Senior Manager, Deal Strategy & Monetization",
+      "contact_email": "Will.Drinkwater@airwallex.com",
+      "contact_linkedin": "https://www.linkedin.com/in/will-drinkwater-26b074113",
+      "score": 95,
+      "score_breakdown": {
+        "recency": 20,
+        "seniority": 25,
+        "role_type": 25,
+        "contact_completeness": 25
+      },
+      "qualifies": true
+    },
+    {
+      "rank": 16,
+      "company": "Raptor Technologies",
+      "job_title": "Senior Director, FP&A - Revenue Operations",
+      "location": "Houston, TX",
+      "domain": "raptortech.com",
+      "contact_name": "Dennis Deuberry",
+      "contact_title": "Chief Financial Officer",
+      "contact_email": "DDeuberry@raptortech.com",
+      "contact_linkedin": "https://www.linkedin.com/in/dennis-deuberry",
+      "score": 95,
+      "score_breakdown": {
+        "recency": 20,
+        "seniority": 25,
+        "role_type": 25,
+        "contact_completeness": 25
+      },
+      "qualifies": true
+    },
+    {
+      "rank": 17,
+      "company": "Gong",
+      "job_title": "Revenue Operations Director",
+      "location": "San Francisco, CA",
+      "domain": "gong.io",
+      "contact_name": "Matthew Flotard",
+      "contact_title": "VP, Revenue Operations",
+      "contact_email": "matt.flotard@gong.io",
+      "contact_linkedin": "https://www.linkedin.com/in/matthewflotard",
+      "score": 95,
+      "score_breakdown": {
+        "recency": 20,
+        "seniority": 25,
+        "role_type": 25,
+        "contact_completeness": 25
+      },
+      "qualifies": true
+    },
+    {
+      "rank": 18,
+      "company": "RudderStack",
+      "job_title": "Revenue Operations & GTM Systems Lead - Remote",
+      "location": "San Francisco, CA",
+      "domain": "rudderstack.com",
+      "contact_name": "Renee Kelley (Psenka)",
+      "contact_title": "Director of Revenue Operations at RudderStack",
+      "contact_email": "renee.psenka@vercel.com",
+      "contact_linkedin": "https://www.linkedin.com/in/rpsenka",
+      "score": 95,
+      "score_breakdown": {
+        "recency": 20,
+        "seniority": 25,
+        "role_type": 25,
+        "contact_completeness": 25
+      },
+      "qualifies": true
+    },
+    {
+      "rank": 19,
+      "company": "Legora",
+      "job_title": "Revenue Operations Lead - NYC",
+      "location": "New York, NY",
+      "domain": "legora.com",
+      "contact_name": "Kushal Dalal",
+      "contact_title": "Head of Revenue Operations at Legora, responsible for building Revenue Strategy & Operations, Revenue Systems (Lead to Cash), and Revenue Enablement.",
+      "contact_email": "Kushal@legora.com",
+      "contact_linkedin": "https://www.linkedin.com/in/kushaldalal24",
+      "score": 95,
+      "score_breakdown": {
+        "recency": 20,
+        "seniority": 25,
+        "role_type": 25,
+        "contact_completeness": 25
+      },
+      "qualifies": true
+    },
+    {
+      "rank": 20,
+      "company": "Gusto",
+      "job_title": "Head of Sales and GTM Operations",
+      "location": "Denver, CO",
+      "domain": "gusto.com",
+      "contact_name": "Tolithia Kornweibel",
+      "contact_title": "CEO at Beam Benefits, Columbus, Ohio Metropolitan Area",
+      "contact_email": "tolithia.kornweibel@beam.dental",
+      "contact_linkedin": "https://www.linkedin.com/in/tolithia",
+      "score": 95,
+      "score_breakdown": {
+        "recency": 20,
+        "seniority": 25,
+        "role_type": 25,
+        "contact_completeness": 25
+      },
+      "qualifies": true
+    },
+    {
+      "rank": 21,
+      "company": "Snowflake",
+      "job_title": "Senior Manager Marketing Operations GTM Engineer",
+      "location": "Menlo Park, CA",
+      "domain": "snowflake.com",
+      "contact_name": "Brian Cabreros",
+      "contact_title": "Head of Global Marketing Operations",
+      "contact_email": "Brian.Cabreros@snowflake.com",
+      "contact_linkedin": "https://www.linkedin.com/in/briancabreros",
+      "score": 90,
+      "score_breakdown": {
+        "recency": 25,
+        "seniority": 25,
+        "role_type": 15,
+        "contact_completeness": 25
+      },
+      "qualifies": true
+    },
+    {
+      "rank": 22,
+      "company": "Veeva Systems",
+      "job_title": "Marketing Operations - Manager / Senior Manager",
+      "location": "Pleasanton, CA",
+      "domain": "veeva.com",
+      "contact_name": "Tessa Magee Mattis",
+      "contact_title": "Sr. Director Marketing Operations",
+      "contact_email": "Tessa.Mattis@veeva.com",
+      "contact_linkedin": "https://www.linkedin.com/in/tessa-magee-mattis-8028833",
+      "score": 90,
+      "score_breakdown": {
+        "recency": 25,
+        "seniority": 25,
+        "role_type": 15,
+        "contact_completeness": 25
+      },
+      "qualifies": true
+    },
+    {
+      "rank": 23,
+      "company": "The Cigna Group",
+      "job_title": "Director, Sales Operations - CuraScript Specialty Distribution - Hybrid",
+      "location": "Lake Mary, FL",
+      "domain": "thecignagroup.com",
+      "contact_name": "Ron Cardella",
+      "contact_title": "Sr. Director of Sales",
+      "contact_email": "ron.cardella@curascript.com",
+      "contact_linkedin": "https://www.linkedin.com/in/ron-cardella-765108a",
+      "score": 90,
+      "score_breakdown": {
+        "recency": 20,
+        "seniority": 25,
+        "role_type": 20,
+        "contact_completeness": 25
+      },
+      "qualifies": true
+    },
+    {
+      "rank": 24,
+      "company": "The J.M. Smucker Co.",
+      "job_title": "Director, Sales Operations and Channel Commercialization \u2013 Away from Home (AFH)",
+      "location": "Orrville, OH",
+      "domain": "jmsmucker.com",
+      "contact_name": "Robert Crane",
+      "contact_title": "Executive, Sports Business Affairs at Creative Artists Agency",
+      "contact_email": "Robert.Crane@jmsmucker.com",
+      "contact_linkedin": "https://www.linkedin.com/in/robert-crane-79719940",
+      "score": 90,
+      "score_breakdown": {
+        "recency": 20,
+        "seniority": 25,
+        "role_type": 20,
+        "contact_completeness": 25
+      },
+      "qualifies": true
+    },
+    {
+      "rank": 25,
+      "company": "Lennox",
+      "job_title": "Sales Operations Principal",
+      "location": "West Columbia, SC",
+      "domain": "lennox.com",
+      "contact_name": "Patrick O'Hara",
+      "contact_title": "Sales Operations and Pricing Manager",
+      "contact_email": "patohara31@hotmail.com",
+      "contact_linkedin": "https://www.linkedin.com/in/patrick-o-hara-72b13931",
+      "score": 90,
+      "score_breakdown": {
+        "recency": 20,
+        "seniority": 25,
+        "role_type": 20,
+        "contact_completeness": 25
+      },
+      "qualifies": true
+    },
+    {
+      "rank": 26,
+      "company": "Postman",
+      "job_title": "Head of Sales Operations",
+      "location": "San Francisco, CA",
+      "domain": "postman.com",
+      "contact_name": "Head of Sales Operations Postman",
+      "contact_title": "The Head of Sales Operations at Postman",
+      "contact_email": "sales@postman.com",
+      "contact_linkedin": "https://www.linkedin.com/company/postman",
+      "score": 90,
+      "score_breakdown": {
+        "recency": 20,
+        "seniority": 25,
+        "role_type": 20,
+        "contact_completeness": 25
+      },
+      "qualifies": true
+    },
+    {
+      "rank": 27,
+      "company": "Apartment List",
+      "job_title": "Director, Sales Operations",
+      "location": "San Francisco Bay Area",
+      "domain": "apartmentlist.com",
+      "contact_name": "Mike Wolber",
+      "contact_title": "Director Sales Operations",
+      "contact_email": "MWolber@apartmentlist.com",
+      "contact_linkedin": "https://www.linkedin.com/in/mikewolber",
+      "score": 90,
+      "score_breakdown": {
+        "recency": 20,
+        "seniority": 25,
+        "role_type": 20,
+        "contact_completeness": 25
+      },
+      "qualifies": true
+    },
+    {
+      "rank": 28,
+      "company": "Fusable",
+      "job_title": "VP - Sales Operations | Remote",
+      "location": "Charlotte, NC",
+      "domain": "fusable.com",
+      "contact_name": "Paul McConville",
+      "contact_title": "Chief Revenue Officer",
+      "contact_email": "PaulMcConville@fusable.com",
+      "contact_linkedin": "https://www.linkedin.com/in/paul-mcconville-8863971",
+      "score": 90,
+      "score_breakdown": {
+        "recency": 20,
+        "seniority": 25,
+        "role_type": 20,
+        "contact_completeness": 25
+      },
+      "qualifies": true
+    },
+    {
+      "rank": 29,
+      "company": "Impiricus",
+      "job_title": "Director Sales Operations",
+      "location": "United States",
+      "domain": "impiricus.com",
+      "contact_name": "Adam Derengowski",
+      "contact_title": "SVP Sales Operations",
+      "contact_email": "Adam.Derengowski@impiricus.com",
+      "contact_linkedin": "https://www.linkedin.com/in/adam-derengowski-4a3a273",
+      "score": 90,
+      "score_breakdown": {
+        "recency": 20,
+        "seniority": 25,
+        "role_type": 20,
+        "contact_completeness": 25
+      },
+      "qualifies": true
+    },
+    {
+      "rank": 30,
+      "company": "BMC Helix",
+      "job_title": "Helix - Lead Sales Operations Analyst - Professional Services",
+      "location": "United States",
+      "domain": "helixops.ai",
+      "contact_name": "Sandrine Bastian",
+      "contact_title": "Sr. Sales Operations Analyst specializing in deal desk process optimization, pricing, approvals, and negotiation support at BMC Helix and BMC Software.",
+      "contact_email": "Sandrine.Bastian@helixops.ai",
+      "contact_linkedin": "https://www.linkedin.com/in/sandrine-bastian-b67a2232",
+      "score": 90,
+      "score_breakdown": {
+        "recency": 20,
+        "seniority": 25,
+        "role_type": 20,
+        "contact_completeness": 25
+      },
+      "qualifies": true
+    },
+    {
+      "rank": 31,
+      "company": "SUN PHARMA",
+      "job_title": "Associate Director, Sales Operations",
+      "location": "Hawthorne, NJ",
+      "domain": "sunpharma.com",
+      "contact_name": "Raj Tripathi",
+      "contact_title": "Head of Commercial Operations Generics and Institutional",
+      "contact_email": "Raj.Tripathi@sunpharma.com",
+      "contact_linkedin": "https://www.linkedin.com/in/raj-tripathi-64871823",
+      "score": 90,
+      "score_breakdown": {
+        "recency": 20,
+        "seniority": 25,
+        "role_type": 20,
+        "contact_completeness": 25
+      },
+      "qualifies": true
+    },
+    {
+      "rank": 32,
+      "company": "KPA",
+      "job_title": "Director of Revenue Operations",
+      "location": "United States",
+      "domain": "kpa.io",
+      "contact_name": "Michael Bruns",
+      "contact_title": "Chief Executive Officer at KPA",
+      "contact_email": "MBruns@kpa.io",
+      "contact_linkedin": "https://www.linkedin.com/in/mbruns",
+      "score": 90,
+      "score_breakdown": {
+        "recency": 15,
+        "seniority": 25,
+        "role_type": 25,
+        "contact_completeness": 25
+      },
+      "qualifies": true
+    },
+    {
+      "rank": 33,
+      "company": "Overstory",
+      "job_title": "Senior Manager, Revenue Operations",
+      "location": "United States",
+      "domain": "overstory.com",
+      "contact_name": "Tamara Mendelsohn",
+      "contact_title": "Senior Manager, Revenue Operations",
+      "contact_email": "Tamara.Mendelsohn@overstory.com",
+      "contact_linkedin": "https://www.linkedin.com/in/tamaramendelsohn",
+      "score": 90,
+      "score_breakdown": {
+        "recency": 15,
+        "seniority": 25,
+        "role_type": 25,
+        "contact_completeness": 25
+      },
+      "qualifies": true
+    },
+    {
+      "rank": 34,
+      "company": "Headway",
+      "job_title": "Revenue Operations Lead - Provider Growth Marketing Insights",
+      "location": "New York, NY",
+      "domain": "headway.co",
+      "contact_name": "Andrew Adams",
+      "contact_title": "CEO, Founder @ Headway",
+      "contact_email": "andrew@headway.co",
+      "contact_linkedin": "https://www.linkedin.com/in/andrew-lang-adams",
+      "score": 90,
+      "score_breakdown": {
+        "recency": 15,
+        "seniority": 25,
+        "role_type": 25,
+        "contact_completeness": 25
+      },
+      "qualifies": true
+    },
+    {
+      "rank": 35,
+      "company": "Balto",
+      "job_title": "Director of Revenue Operations",
+      "location": "United States",
+      "domain": "balto.ai",
+      "contact_name": "Branden Baldwin",
+      "contact_title": "Director of Revenue Operations at Balto.ai",
+      "contact_email": "branden@vib.tech",
+      "contact_linkedin": "https://www.linkedin.com/in/brandenbaldwin",
+      "score": 90,
+      "score_breakdown": {
+        "recency": 15,
+        "seniority": 25,
+        "role_type": 25,
+        "contact_completeness": 25
+      },
+      "qualifies": true
+    },
+    {
+      "rank": 36,
+      "company": "Retool",
+      "job_title": "Global Head of Revenue Operations & Enablement",
+      "location": "San Francisco, CA",
+      "domain": "retool.com",
+      "contact_name": "Jonathan Krangel",
+      "contact_title": "Nearly 5 years in Revenue Operations at Retool, building and leading the RevOps team, recently joined Anysphere to lead Revenue Operations.",
+      "contact_email": "jk@retool.com",
+      "contact_linkedin": "https://linkedin.com/in/jkrangel",
+      "score": 90,
+      "score_breakdown": {
+        "recency": 15,
+        "seniority": 25,
+        "role_type": 25,
+        "contact_completeness": 25
+      },
+      "qualifies": true
+    },
+    {
+      "rank": 37,
+      "company": "monday.com",
+      "job_title": "Revenue Operations Lead - GTM Strategy and Initiatives",
+      "location": "New York, NY",
+      "domain": "monday.com",
+      "contact_name": "Itai Dukas",
+      "contact_title": "Director of Central Revenue Operations at monday.com",
+      "contact_email": "Itai@monday.com",
+      "contact_linkedin": "https://www.linkedin.com/in/itai-dukas",
+      "score": 90,
+      "score_breakdown": {
+        "recency": 15,
+        "seniority": 25,
+        "role_type": 25,
+        "contact_completeness": 25
+      },
+      "qualifies": true
+    },
+    {
+      "rank": 38,
+      "company": "Digital.ai",
+      "job_title": "VP Revenue Operations",
+      "location": "Raleigh, NC",
+      "domain": "digital.ai",
+      "contact_name": "Mike Davey",
+      "contact_title": "Chief Revenue Officer at Digital.ai with over 30 years of experience in revenue growth strategy, enterprise sales, go-to-market strategy, and building high-performing teams. He has a proven track record of scaling enterprise revenue, implementing effective sales methodologies, and driving multi-million dollar opportunities. Mike is focused on strategic planning, tactical excellence, and accelerating sales cycles in SaaS and enterprise software sectors.",
+      "contact_email": "Mike.Davey@digital.ai",
+      "contact_linkedin": "https://www.linkedin.com/in/michaeldavey3",
+      "score": 90,
+      "score_breakdown": {
+        "recency": 15,
+        "seniority": 25,
+        "role_type": 25,
+        "contact_completeness": 25
+      },
+      "qualifies": true
+    },
+    {
+      "rank": 39,
+      "company": "Instructure",
+      "job_title": "Vice President of Revenue Operations",
+      "location": "United States",
+      "domain": "instructure.com",
+      "contact_name": "Quoc Tran",
+      "contact_title": "Vice President of Revenue Operations",
+      "contact_email": "Quoc.Tran@instructure.com",
+      "contact_linkedin": "https://www.linkedin.com/in/quocntran33",
+      "score": 90,
+      "score_breakdown": {
+        "recency": 15,
+        "seniority": 25,
+        "role_type": 25,
+        "contact_completeness": 25
+      },
+      "qualifies": true
+    },
+    {
+      "rank": 40,
+      "company": "OPSWAT",
+      "job_title": "Head of Revenue Operations",
+      "location": "Tampa, FL",
+      "domain": "opswat.com",
+      "contact_name": "Head of Revenue Operations at OPSWAT",
+      "contact_title": "Liam Emmett is the Director of Revenue Operations for International at OPSWAT since October 2024. Prior to that, there is no other identified Head of Revenue Operations listed at OPSWAT.",
+      "contact_email": "liam.emmett@opswat.com",
+      "contact_linkedin": "https://www.linkedin.com/in/liam-emmett-427a17163",
+      "score": 90,
+      "score_breakdown": {
+        "recency": 15,
+        "seniority": 25,
+        "role_type": 25,
+        "contact_completeness": 25
+      },
+      "qualifies": true
+    },
+    {
+      "rank": 41,
+      "company": "Clipbook",
+      "job_title": "Founding Revenue Operations Lead / Associate",
+      "location": "New York, NY",
+      "domain": "clipbook.com",
+      "contact_name": "Adam Joseph",
+      "contact_title": "Founder & CEO of Clipbook, building the AI-native system of record for communications teams at leading enterprises. Clipbook analyzes multimodal external data to surface real-time and predictive intelligence for high-stakes decision-making. Trusted by 200+ enterprises globally.",
+      "contact_email": "adam.joseph@clipbook.com",
+      "contact_linkedin": "https://www.linkedin.com/in/adamjacobjoseph",
+      "score": 90,
+      "score_breakdown": {
+        "recency": 15,
+        "seniority": 25,
+        "role_type": 25,
+        "contact_completeness": 25
+      },
+      "qualifies": true
+    },
+    {
+      "rank": 42,
+      "company": "Graylog, Inc.",
+      "job_title": "Director, Revenue Operations",
+      "location": "Texas, United States",
+      "domain": "graylog.org",
+      "contact_name": "Dylan Fuller",
+      "contact_title": "Manager of Revenue Operations at Thread",
+      "contact_email": "dylan.fuller@graylog.com",
+      "contact_linkedin": "https://www.linkedin.com/in/dylan-fuller-61968a14b",
+      "score": 90,
+      "score_breakdown": {
+        "recency": 15,
+        "seniority": 25,
+        "role_type": 25,
+        "contact_completeness": 25
+      },
+      "qualifies": true
+    },
+    {
+      "rank": 43,
+      "company": "Upwind Security",
+      "job_title": "Revenue Operations Sr. Analyst / Associate",
+      "location": "San Francisco, CA",
+      "domain": "upwind.io",
+      "contact_name": "Mor Ben-Kalifa",
+      "contact_title": "Head of GTM Operations",
+      "contact_email": "Mor.BenKalifa@upwind.io",
+      "contact_linkedin": "https://www.linkedin.com/in/morbenkalifa",
+      "score": 85,
+      "score_breakdown": {
+        "recency": 25,
+        "seniority": 10,
+        "role_type": 25,
+        "contact_completeness": 25
+      },
+      "qualifies": true
+    },
+    {
+      "rank": 44,
+      "company": "Amplemarket",
+      "job_title": "Senior Revenue Operations Manager",
+      "location": "San Francisco, CA",
+      "domain": "amplemarket.com",
+      "contact_name": "Ana Brandt",
+      "contact_title": "RevOps Lead",
+      "contact_email": "Ana.Brandt@amplemarket.com",
+      "contact_linkedin": "https://www.linkedin.com/in/anabrandt",
+      "score": 85,
+      "score_breakdown": {
+        "recency": 25,
+        "seniority": 10,
+        "role_type": 25,
+        "contact_completeness": 25
+      },
+      "qualifies": true
+    },
+    {
+      "rank": 45,
+      "company": "Procore Technologies",
+      "job_title": "Revenue Operations Business Partner, SDR (Remote)",
+      "location": "Austin, TX",
+      "domain": "procore.com",
+      "contact_name": "Jerrell Sheppard",
+      "contact_title": "Sr. Director of Sales at Procore Technologies",
+      "contact_email": "jerrell.sheppard@procore.com",
+      "contact_linkedin": "https://www.linkedin.com/in/jerrell-sheppard",
+      "score": 85,
+      "score_breakdown": {
+        "recency": 25,
+        "seniority": 10,
+        "role_type": 25,
+        "contact_completeness": 25
+      },
+      "qualifies": true
+    },
+    {
+      "rank": 46,
+      "company": "Via",
+      "job_title": "Content Marketing Associate Principal",
+      "location": "New York, NY",
+      "domain": "ridewithvia.com",
+      "contact_name": "Fred Dintenfass",
+      "contact_title": "VP of Marketing",
+      "contact_email": "Fred.Dintenfass@ridewithvia.com",
+      "contact_linkedin": "https://www.linkedin.com/in/freddin",
+      "score": 85,
+      "score_breakdown": {
+        "recency": 25,
+        "seniority": 25,
+        "role_type": 10,
+        "contact_completeness": 25
+      },
+      "qualifies": true
+    },
+    {
+      "rank": 47,
+      "company": "Prudential Financial",
+      "job_title": "Director of Email & Marketing Automation",
+      "location": "Newark, NJ",
+      "domain": "prudential.com",
+      "contact_name": "Lawrence Kurland",
+      "contact_title": "Vice President, Customer Experience & Marketing",
+      "contact_email": "Lawrence.Kurland@prudential.com",
+      "contact_linkedin": "https://www.linkedin.com/in/lawrencekurland",
+      "score": 85,
+      "score_breakdown": {
+        "recency": 25,
+        "seniority": 25,
+        "role_type": 10,
+        "contact_completeness": 25
+      },
+      "qualifies": true
+    },
+    {
+      "rank": 48,
+      "company": "Foley",
+      "job_title": "Revenue Operations Data & Integrations Administrator",
+      "location": "United States",
+      "domain": "foley.io",
+      "contact_name": "Kevin Donovan",
+      "contact_title": "Revenue Operations Data & Integrations Administrator",
+      "contact_email": "Kevin.Donovan@foley.io",
+      "contact_linkedin": "https://www.linkedin.com/in/kevinpatrickdonovan",
+      "score": 85,
+      "score_breakdown": {
+        "recency": 25,
+        "seniority": 10,
+        "role_type": 25,
+        "contact_completeness": 25
+      },
+      "qualifies": true
+    },
+    {
+      "rank": 49,
+      "company": "Square",
+      "job_title": "Director of Growth Strategy & Operations \u2013 Global SMB Sales",
+      "location": "United States",
+      "domain": "squareup.com",
+      "contact_name": "Yanmin Lee",
+      "contact_title": "Director of Growth Strategy & Operations at Square",
+      "contact_email": "Lee@squareup.com",
+      "contact_linkedin": "https://www.linkedin.com/in/yanminlee",
+      "score": 85,
+      "score_breakdown": {
+        "recency": 25,
+        "seniority": 25,
+        "role_type": 10,
+        "contact_completeness": 25
+      },
+      "qualifies": true
+    },
+    {
+      "rank": 50,
+      "company": "Stripe",
+      "job_title": "Alliances & Channels Sales Strategy & Operations Analytical Lead",
+      "location": "Chicago, IL",
+      "domain": "stripe.com",
+      "contact_name": "Michael Magabo",
+      "contact_title": "Alliances & Channels at Stripe, leading the build of SI and consulting partner ecosystem from zero to global scale, driving global GTM partnerships",
+      "contact_email": "MichaelMagabo@stripe.com",
+      "contact_linkedin": "https://www.linkedin.com/in/michaelmagabo",
+      "score": 85,
+      "score_breakdown": {
+        "recency": 25,
+        "seniority": 25,
+        "role_type": 10,
+        "contact_completeness": 25
+      },
+      "qualifies": true
+    }
+  ],
+  "sample_messages": [
+    {
+      "company": "Auterion",
+      "contact_name": "Alec Fleming",
+      "contact_email": "Alec@auterion.com",
+      "contact_title": "Global Recruitment Manager",
+      "score": 100,
+      "pqs_subject": "Re: Senior Manager Revenue Operations role",
+      "pqs_body": "Your open Senior Manager Revenue Operations posting combined with your team structure suggests you're building out revenue operations capability.\n\nMost companies in this position initially try hiring a generalist or promoting from within\u2014but the ones who scaled efficiently discovered that bringing in specialized RevOps expertise that can hit the ground running reduced ramp time by 60% and achieved faster pipeline visibility.\n\nCurious if you're seeing data silos between sales, marketing, and CS?",
+      "pvp_subject": "Auterion's GTM ops gap analysis",
+      "pvp_body": "Analysis of Auterion's public hiring data shows your Senior Manager Revenue Operations posting suggests you're building a strategic ops function.\n\nCompanies hiring senior ops roles who get the structure right from day one see 40% faster time-to-productivity\u2014specifically by aligning tooling, process, and headcount in the right sequence.\n\nWant the GTM ops org design framework we've used with similar companies?"
+    },
+    {
+      "company": "Snorkel AI",
+      "contact_name": "Bobby Shoker",
+      "contact_email": "Bobby.Shoker@snorkel.ai",
+      "contact_title": "Chief Financial Officer at Veza",
+      "score": 100,
+      "pqs_subject": "Re: Head of Revenue Operations role",
+      "pqs_body": "Your open Head of Revenue Operations posting combined with your team structure suggests you're building out revenue operations capability.\n\nMost companies in this position initially try hiring a generalist or promoting from within\u2014but the ones who scaled efficiently discovered that bringing in specialized RevOps expertise that can hit the ground running reduced ramp time by 60% and achieved faster pipeline visibility.\n\nCurious if you're seeing data silos between sales, marketing, and CS?",
+      "pvp_subject": "Snorkel AI's GTM ops gap analysis",
+      "pvp_body": "Analysis of Snorkel AI's public hiring data shows your Head of Revenue Operations posting suggests you're building a strategic ops function.\n\nCompanies hiring senior ops roles who get the structure right from day one see 40% faster time-to-productivity\u2014specifically by aligning tooling, process, and headcount in the right sequence.\n\nWant the GTM ops org design framework we've used with similar companies?"
+    },
+    {
+      "company": "Better Health",
+      "contact_name": "Matt Aster",
+      "contact_email": "Matt.Aster@joinbetter.com",
+      "contact_title": "Growth Marketing",
+      "score": 100,
+      "pqs_subject": "Re: Director role",
+      "pqs_body": "Your open Director, Inside Sales & Revenue Operations posting combined with your team structure suggests you're building out revenue operations capability.\n\nMost companies in this position initially try hiring a generalist or promoting from within\u2014but the ones who scaled efficiently discovered that bringing in specialized RevOps expertise that can hit the ground running reduced ramp time by 60% and achieved faster pipeline visibility.\n\nCurious if you're seeing data silos between sales, marketing, and CS?",
+      "pvp_subject": "Better Health's GTM ops gap analysis",
+      "pvp_body": "Analysis of Better Health's public hiring data shows your Director, Inside Sales & Revenue Operations posting suggests you're building a strategic ops function.\n\nCompanies hiring senior ops roles who get the structure right from day one see 40% faster time-to-productivity\u2014specifically by aligning tooling, process, and headcount in the right sequence.\n\nWant the GTM ops org design framework we've used with similar companies?"
+    },
+    {
+      "company": "GC AI",
+      "contact_name": "Andrew Conley",
+      "contact_email": "andrew@gc.ai",
+      "contact_title": "Chief Revenue Officer (CRO)",
+      "score": 100,
+      "pqs_subject": "Re: Head of Revenue Operations role",
+      "pqs_body": "Your open Head of Revenue Operations posting combined with your team structure suggests you're building out revenue operations capability.\n\nMost companies in this position initially try hiring a generalist or promoting from within\u2014but the ones who scaled efficiently discovered that bringing in specialized RevOps expertise that can hit the ground running reduced ramp time by 60% and achieved faster pipeline visibility.\n\nCurious if you're seeing data silos between sales, marketing, and CS?",
+      "pvp_subject": "GC AI's GTM ops gap analysis",
+      "pvp_body": "Analysis of GC AI's public hiring data shows your Head of Revenue Operations posting suggests you're building a strategic ops function.\n\nCompanies hiring senior ops roles who get the structure right from day one see 40% faster time-to-productivity\u2014specifically by aligning tooling, process, and headcount in the right sequence.\n\nWant the GTM ops org design framework we've used with similar companies?"
+    },
+    {
+      "company": "Wood Mackenzie",
+      "contact_name": "Anil Swani",
+      "contact_email": "swani.houston@gmail.com",
+      "contact_title": "Vice President, Head of Sales, North & South America",
+      "score": 95,
+      "pqs_subject": "Re: Principal Specialist role",
+      "pqs_body": "Your open Principal Specialist - Sales Operations posting combined with your team structure suggests you're building out sales operations capability.\n\nMost companies in this position initially try having AEs manage their own pipeline hygiene\u2014but the ones who scaled efficiently discovered that implementing automated data enrichment and scoring increased rep productivity by 40%.\n\nCurious if you're seeing manual CRM updates eating into selling time?",
+      "pvp_subject": "Wood Mackenzie's GTM ops gap analysis",
+      "pvp_body": "Analysis of Wood Mackenzie's public hiring data shows your Principal Specialist - Sales Operations posting suggests you're building a strategic ops function.\n\nCompanies hiring senior ops roles who get the structure right from day one see 40% faster time-to-productivity\u2014specifically by aligning tooling, process, and headcount in the right sequence.\n\nWant the GTM ops org design framework we've used with similar companies?"
+    }
+  ]
+}
