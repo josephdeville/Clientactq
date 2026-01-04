@@ -1,0 +1,156 @@
+# ClayWorks Data Recipe Template
+# A Data Recipe identifies prospects at the exact moment they experience a verifiable pain point
+
+# Recipe Metadata
+name: "Recipe Name"
+version: "1.0.0"
+description: "Brief description of what this recipe identifies"
+author: ""
+created_at: ""
+updated_at: ""
+
+# Target Definition
+target:
+  outcome: "What situation are we identifying?"
+  persona: "VP of Ops, CISO, etc."
+  company_type: "Mid-market companies with X characteristic"
+  timeframe: "Deadline within X days, Recent funding, etc."
+
+# Data Ingredients
+# Each ingredient comes from a data source and provides a specific signal
+ingredients:
+  - name: "primary_obligation"
+    source: "sam_gov"  # or other data source
+    data_point: "contract_deadline"
+    signal_description: "Government contract with upcoming deadline"
+    required: true
+
+  - name: "hiring_signal"
+    source: "linkedin_jobs"
+    data_point: "compliance_roles"
+    signal_description: "Posted compliance-related job in last 30 days"
+    required: true
+
+  - name: "technology_indicator"
+    source: "builtwith"
+    data_point: "tech_stack"
+    signal_description: "Current technology stack showing gaps"
+    required: false
+
+  - name: "company_size"
+    source: "linkedin_company"
+    data_point: "employee_count"
+    signal_description: "Company size indicator"
+    required: true
+
+# Combination Logic
+# All required conditions must be true; optional conditions enhance score
+combination_logic:
+  required_conditions:
+    - field: "days_to_deadline"
+      operator: "less_than"
+      value: 90
+      source: "sam_gov"
+
+    - field: "has_relevant_posting"
+      operator: "equals"
+      value: true
+      source: "linkedin_jobs"
+
+    - field: "employee_count"
+      operator: "greater_than"
+      value: 50
+      source: "linkedin_company"
+
+  optional_conditions:
+    - field: "has_tech_gap"
+      operator: "equals"
+      value: true
+      source: "builtwith"
+
+    - field: "has_funding"
+      operator: "equals"
+      value: true
+      source: "crunchbase"
+
+# Scoring Model
+# Total should sum to ~100 points
+scoring:
+  threshold: 70  # Minimum score to qualify
+
+  components:
+    - name: "deadline_urgency"
+      description: "Deadline within 60 days"
+      points: 30
+      weight_percentage: 30
+      condition:
+        field: "days_to_deadline"
+        operator: "less_than"
+        value: 60
+
+    - name: "hiring_signal"
+      description: "Posted relevant job in last 14 days"
+      points: 25
+      weight_percentage: 25
+      condition:
+        field: "posting_age_days"
+        operator: "less_than"
+        value: 14
+
+    - name: "technology_gap"
+      description: "Missing key technology"
+      points: 25
+      weight_percentage: 25
+      condition:
+        field: "has_tech_gap"
+        operator: "equals"
+        value: true
+
+    - name: "company_fit"
+      description: "Company size matches ICP"
+      points: 20
+      weight_percentage: 20
+      condition:
+        field: "employee_count"
+        operator: "greater_than"
+        value: 100
+
+# Validation Steps
+# Manual verification before outreach
+validation:
+  - step: 1
+    description: "Verify deadline date in primary source"
+    verification_method: "Manual check of SAM.gov contract record"
+    required: true
+
+  - step: 2
+    description: "Confirm job posting is still active"
+    verification_method: "Visit LinkedIn job page directly"
+    required: true
+
+  - step: 3
+    description: "Validate company size is current"
+    verification_method: "Check LinkedIn company page"
+    required: false
+
+# Output Configuration
+output:
+  segment_name: "deadline_pressure_segment"
+  sequence_name: "urgent_deadline_sequence"
+  priority: "high"
+  tags:
+    - "compliance"
+    - "deadline"
+    - "govcon"
+
+# Notes
+notes: |
+  This recipe targets companies with government contract deadlines
+  who are showing hiring signals for compliance roles. The combination
+  of external pressure (deadline) and internal action (hiring) indicates
+  high likelihood of active evaluation.
+
+  Best performing when:
+  - Deadline is 30-60 days out (urgency but not too late)
+  - Job posting is less than 2 weeks old (active hiring)
+  - Company has 100-500 employees (right size for our solution)
