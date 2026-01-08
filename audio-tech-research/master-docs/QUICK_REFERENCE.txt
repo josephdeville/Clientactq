@@ -1,0 +1,165 @@
+================================================================================
+AUDIO TECH CONTACTS EXTRACTION - QUICK REFERENCE
+================================================================================
+
+EXTRACTION RESULTS:
+- Document: /home/user/Clientactq/audio-tech-research/master-docs/MASTER_PRIORITIZATION.md
+- Extraction Date: January 8, 2026
+- Document Date: January 6, 2026
+
+DETAILED CONTACTS EXTRACTED: 49 out of 144 claimed
+- P1 HOT tier: 10 contacts (3 companies)
+- P2 WARM tier: 24 contacts (7 companies)
+- P3 COOL tier: 9+ contacts (5 companies)
+- P4 COLD tier: 0 detailed (13 companies listed without names)
+- P5 SKIP tier: 0 detailed (exact count unknown)
+
+================================================================================
+OUTPUT FILES GENERATED:
+================================================================================
+
+1. contacts_extraction.json (21 KB)
+   Location: /home/user/Clientactq/audio-tech-research/master-docs/
+   Format: Structured JSON with nested company and contact data
+   Contents: All 49 detailed contacts with full metadata
+   Use: API integration, data pipelines, programmatic access
+
+2. contacts_detailed.csv (5.8 KB)
+   Location: /home/user/Clientactq/audio-tech-research/master-docs/
+   Format: Comma-separated values spreadsheet
+   Contents: 41 rows (header + 40 data rows)
+   Columns: Company, Tier, Score, Name, Title, Email, LinkedIn, Score, Use Case, Researched
+   Use: Import to Excel/Google Sheets, CRM systems, easy filtering/sorting
+
+3. EXTRACTION_SUMMARY.md (8.9 KB)
+   Location: /home/user/Clientactq/audio-tech-research/master-docs/
+   Format: Markdown documentation
+   Contents: Detailed analysis, company listings, data quality assessment
+   Use: Reference guide, quality metrics, recommendations
+
+================================================================================
+CONTACT COMPLETENESS:
+================================================================================
+
+Email Addresses:
+  Available: 19/49 contacts (39%)
+  Missing: 30/49 contacts (61%)
+
+LinkedIn URLs:
+  Available: 0/49 contacts (0%)
+  Missing: 49/49 contacts (100%)
+
+Top Contacts with Email:
+  1. Matthieu Carton (ElevenLabs) - matthieu@elevenlabs.io
+  2. Mark Thomas (Splice) - mark.thomas@splice.com
+  3. Samu Rast (Splice) - samu.rast@splice.com
+  4. Meredith Allen (Splice) - meredith.allen@splice.com
+  5. Andrew Rossa (Universal Audio) - arossa@uaudio.com
+  + 14 more...
+
+================================================================================
+TOP 10 HIGHEST-SCORING CONTACTS:
+================================================================================
+
+Rank  Contact Name          Company          Title                    Score
+----  -------------------   ---------------  -----------------------  -----
+1.    Matthieu Carton       ElevenLabs       Community Growth Mgr     88
+2.    Kavita Seebran        Avid             SVP Revenue Ops          82
+3.    Mark Thomas           Splice           VP Product Marketing     82
+4.    Anthony Gabriele      Native Instr.    Chief Marketing Officer  82
+5.    Amanda Ferri          DistroKid        VP Marketing             82
+6.    Ryan Shary            ElevenLabs       GTM Enterprise Dir       85
+7.    Amelia Gammon         Spitfire Audio   Chief Revenue Officer    80
+8.    Erica Quinn           TuneCore         Senior Dir Growth        80
+9.    Berkley Egenes        Xsolla           Chief Marketing Officer  80
+10.   Andrew Rossa          Universal Audio  VP Product Marketing     85
+
+================================================================================
+COMPANIES SORTED BY PRIORITY & SCORE:
+================================================================================
+
+P1 HOT (Score 80+):
+  1. ElevenLabs (88) - 3 detailed contacts
+  2. Splice (82) - 3 detailed contacts
+  3. Universal Audio (81) - 4 detailed contacts
+
+P2 WARM (Score 70-79):
+  4. Avid (79) - 3 detailed (10 total)
+  5. TuneCore (78) - 3 detailed (6 total)
+  6. DistroKid (77) - 3 detailed (5 total)
+  7. Waves Audio (76) - 3 detailed (7 total)
+  8. Native Instruments (75) - 3 detailed (6 total)
+  9. LANDR (74) - 3 detailed (5 total)
+  10. Xsolla (74) - 3 detailed (10 total)
+
+P3 COOL (Score 60-69):
+  11. Spitfire Audio (72) - 2 detailed (4 total)
+  12. Unity (71) - 2 detailed (6 total)
+  13. ARTURIA (70) - 2 detailed (5 total)
+  14. Ableton (69) - 2 detailed (3 total)
+  15. GameAnalytics (68) - 2 detailed (4 total)
+
+================================================================================
+CRITICAL FINDINGS:
+================================================================================
+
+1. INCOMPLETE DATABASE
+   The master document claims 144 total contacts but only provides detailed
+   information for 49 across 15 companies. The remaining ~95 contacts from
+   P4 (cold) and P5 (skip) tiers have NO individual names listed.
+
+2. MISSING CONTACT DETAILS
+   - 61% of detailed contacts lack email addresses
+   - 100% of contacts missing LinkedIn URLs
+   - Some contacts only have partial information (title only, no email)
+
+3. COMPANY COUNTS
+   Document mentions total contacts per company but doesn't list names:
+   - Avid: 10 total contacts (only 3 names provided)
+   - Xsolla: 10 total contacts (only 3 names provided)
+   - Universal Audio: 9 total contacts (only 4 names provided)
+
+4. RESEARCH STATUS
+   Only 5 contacts marked as "RESEARCHED":
+   - Matthieu Carton (ElevenLabs)
+   - Mark Thomas (Splice)
+   - Keri Middleton (Avid)
+   - Nir Benjaminy (Waves Audio)
+   - Paul Fleury (LANDR)
+
+================================================================================
+RECOMMENDATIONS:
+================================================================================
+
+1. VERIFY DATA COMPLETENESS
+   - Confirm if 144 contacts includes non-GTM roles
+   - Check if separate database exists with P4/P5 contact names
+
+2. ENHANCE CONTACT DATA
+   - Research missing emails for 30 contacts without address
+   - Add LinkedIn URLs for all 49 contacts
+   - Complete partial contact information
+
+3. EXPAND P4/P5 RESEARCH
+   - Extract individual names from 13 P4 companies
+   - Identify contacts for P5 skip tier
+   - Estimate adds ~95 additional contacts to database
+
+4. QUALITY ASSURANCE
+   - Validate email addresses (use verification tool)
+   - Confirm job titles and current employment
+   - Update company scores based on 2026 market status
+
+================================================================================
+FILE LOCATIONS:
+================================================================================
+
+Source Document:
+  /home/user/Clientactq/audio-tech-research/master-docs/MASTER_PRIORITIZATION.md
+
+Extracted Data Files:
+  /home/user/Clientactq/audio-tech-research/master-docs/contacts_extraction.json
+  /home/user/Clientactq/audio-tech-research/master-docs/contacts_detailed.csv
+  /home/user/Clientactq/audio-tech-research/master-docs/EXTRACTION_SUMMARY.md
+
+================================================================================

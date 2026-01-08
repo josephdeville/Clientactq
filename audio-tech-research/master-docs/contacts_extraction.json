@@ -1,0 +1,659 @@
+{
+  "metadata": {
+    "document": "MASTER_PRIORITIZATION.md",
+    "total_companies_claimed": 45,
+    "total_contacts_claimed": 144,
+    "date": "January 6, 2026",
+    "note": "Document provides detailed contact information only for P1-P3 tiers. P4-P5 companies listed without individual contact details.",
+    "detailed_contacts_count": 49,
+    "companies_with_detailed_contacts": 15
+  },
+  "P1_HOT": [
+    {
+      "rank": 1,
+      "company_name": "ElevenLabs",
+      "company_score": 88,
+      "priority_tier": "P1 HOT",
+      "valuation": "$3.3B (Series C, Jan 2025)",
+      "contacts": [
+        {
+          "full_name": "Matthieu Carton",
+          "job_title": "Community Growth Manager",
+          "email": "matthieu@elevenlabs.io",
+          "linkedin_url": null,
+          "contact_score": 88,
+          "use_case": "Community-led growth automation, PLG → Enterprise attribution",
+          "researched": true
+        },
+        {
+          "full_name": "Ryan Shary",
+          "job_title": "GTM Enterprise Director",
+          "email": null,
+          "linkedin_url": null,
+          "contact_score": 85,
+          "use_case": "Enterprise GTM infrastructure, partnership operations",
+          "researched": false
+        },
+        {
+          "full_name": "Simon T.",
+          "job_title": "GTM Director",
+          "email": null,
+          "linkedin_url": null,
+          "contact_score": 82,
+          "use_case": "GTM operations automation, sales enablement",
+          "researched": false
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "company_name": "Splice",
+      "company_score": 82,
+      "priority_tier": "P1 HOT",
+      "valuation": "~$500M (Series D, 2021)",
+      "contacts": [
+        {
+          "full_name": "Mark Thomas",
+          "job_title": "VP, Product Marketing",
+          "email": "mark.thomas@splice.com",
+          "linkedin_url": null,
+          "contact_score": 82,
+          "use_case": "Product launch attribution, competitive intelligence",
+          "researched": true
+        },
+        {
+          "full_name": "Samu Rast",
+          "job_title": "Director of Business Development",
+          "email": "samu.rast@splice.com",
+          "linkedin_url": null,
+          "contact_score": 78,
+          "use_case": "Partnership operations, revenue attribution",
+          "researched": false
+        },
+        {
+          "full_name": "Meredith Allen",
+          "job_title": "Director of Business Development, Education",
+          "email": "meredith.allen@splice.com",
+          "linkedin_url": null,
+          "contact_score": 76,
+          "use_case": "B2B GTM infrastructure, education segment optimization",
+          "researched": false
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "company_name": "Universal Audio",
+      "company_score": 81,
+      "priority_tier": "P1 HOT",
+      "total_contacts_at_company": 9,
+      "contacts_detailed": [
+        {
+          "full_name": "Andrew Rossa",
+          "job_title": "VP of Product Marketing",
+          "email": "arossa@uaudio.com",
+          "linkedin_url": null,
+          "contact_score": 85,
+          "use_case": "Product launch attribution, premium positioning, competitive intelligence",
+          "researched": false
+        },
+        {
+          "full_name": "JC Haydon",
+          "job_title": "VP Growth & Transformation",
+          "email": null,
+          "linkedin_url": null,
+          "contact_score": 83,
+          "use_case": "Growth infrastructure, digital transformation, GTM automation",
+          "researched": false
+        },
+        {
+          "full_name": "Lindsay McFarland",
+          "job_title": "Director of Demand Generation",
+          "email": null,
+          "linkedin_url": null,
+          "contact_score": 80,
+          "use_case": "Demand gen automation, attribution modeling, pipeline efficiency",
+          "researched": false
+        },
+        {
+          "full_name": "David Lenat",
+          "job_title": "VP of Worldwide Sales",
+          "email": null,
+          "linkedin_url": null,
+          "contact_score": 78,
+          "use_case": "Sales operations, pipeline management, forecasting",
+          "researched": false
+        }
+      ]
+    }
+  ],
+  "P2_WARM": [
+    {
+      "rank": 4,
+      "company_name": "Avid",
+      "company_score": 79,
+      "priority_tier": "P2 WARM",
+      "total_contacts_at_company": 10,
+      "contacts_detailed": [
+        {
+          "full_name": "Keri Middleton",
+          "job_title": "Senior Director, Global Demand Generation",
+          "email": "KMiddleton@avid.com",
+          "linkedin_url": null,
+          "contact_score": 79,
+          "use_case": "PE-driven demand gen efficiency, multi-product attribution",
+          "researched": true
+        },
+        {
+          "full_name": "Kavita Seebran",
+          "job_title": "SVP Revenue Operations",
+          "email": "kavita.seebran@avid.com",
+          "linkedin_url": null,
+          "contact_score": 82,
+          "use_case": "RevOps transformation, forecasting, pipeline management",
+          "researched": false
+        },
+        {
+          "full_name": "Kim Connolly",
+          "job_title": "VP Product Marketing",
+          "email": "kim.connolly@avid.com",
+          "linkedin_url": null,
+          "contact_score": 76,
+          "use_case": "Product portfolio positioning, competitive intelligence",
+          "researched": false
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "company_name": "TuneCore",
+      "company_score": 78,
+      "priority_tier": "P2 WARM",
+      "total_contacts_at_company": 6,
+      "contacts_detailed": [
+        {
+          "full_name": "Brian Miller",
+          "job_title": "Chief Revenue Officer",
+          "email": "brian.miller@tunecore.com",
+          "linkedin_url": null,
+          "contact_score": 84,
+          "use_case": "Revenue operations, CRM optimization, pipeline management",
+          "researched": false
+        },
+        {
+          "full_name": "Erica Quinn",
+          "job_title": "Senior Director, Growth & Retention",
+          "email": "erica.quinn@tunecore.com",
+          "linkedin_url": null,
+          "contact_score": 80,
+          "use_case": "Growth marketing, retention optimization, lifecycle automation",
+          "researched": false
+        },
+        {
+          "full_name": "Bennett Henson",
+          "job_title": "Director of Strategy & Business Development",
+          "email": "bennett.henson@tunecore.com",
+          "linkedin_url": null,
+          "contact_score": 76,
+          "use_case": "Partnership operations, strategic initiatives, attribution",
+          "researched": false
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "company_name": "Waves Audio",
+      "company_score": 76,
+      "priority_tier": "P2 WARM",
+      "total_contacts_at_company": 7,
+      "contacts_detailed": [
+        {
+          "full_name": "Nir Benjaminy",
+          "job_title": "Director, CRO & SEO",
+          "email": "nirb@waves.com",
+          "linkedin_url": null,
+          "contact_score": 76,
+          "use_case": "Conversion optimization, SEO automation, trial activation",
+          "researched": true
+        },
+        {
+          "full_name": "Sam Terkel",
+          "job_title": "Director of Online Sales",
+          "email": "samt@waves.com",
+          "linkedin_url": null,
+          "contact_score": 74,
+          "use_case": "E-commerce optimization, sales funnel automation",
+          "researched": false
+        },
+        {
+          "full_name": "Derek Smith",
+          "job_title": "US Sales Director, Consumer Division",
+          "email": "dereks@waves.com",
+          "linkedin_url": null,
+          "contact_score": 72,
+          "use_case": "Sales operations, territory management, forecasting",
+          "researched": false
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "company_name": "LANDR",
+      "company_score": 74,
+      "priority_tier": "P2 WARM",
+      "total_contacts_at_company": 5,
+      "contacts_detailed": [
+        {
+          "full_name": "Paul Fleury",
+          "job_title": "Director of Growth Marketing (LANDR Audio Inc.)",
+          "email": "pfleury@landr.com",
+          "linkedin_url": null,
+          "contact_score": 74,
+          "use_case": "Growth experimentation, multi-product attribution, freemium optimization",
+          "researched": true
+        },
+        {
+          "full_name": "Alexandre Garceau",
+          "job_title": "Product Marketing Manager",
+          "email": "agarceau@landr.com",
+          "linkedin_url": null,
+          "contact_score": 71,
+          "use_case": "Product launch coordination, positioning, competitive intelligence",
+          "researched": false
+        },
+        {
+          "full_name": "Jordan Heather",
+          "job_title": "Director of Product Marketing (LANDR)",
+          "email": null,
+          "linkedin_url": null,
+          "contact_score": 72,
+          "use_case": "PMM operations, launch attribution, market research",
+          "researched": false
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "company_name": "DistroKid",
+      "company_score": 77,
+      "priority_tier": "P2 WARM",
+      "total_contacts_at_company": 5,
+      "contacts_detailed": [
+        {
+          "full_name": "Amanda Ferri",
+          "job_title": "VP of Marketing",
+          "email": "amanda@distrokid.com",
+          "linkedin_url": null,
+          "contact_score": 82,
+          "use_case": "Marketing operations, attribution, competitive positioning",
+          "researched": false
+        },
+        {
+          "full_name": "Angela Lyda",
+          "job_title": "VP, Growth Marketing",
+          "email": null,
+          "linkedin_url": null,
+          "contact_score": 78,
+          "use_case": "Growth marketing automation, acquisition optimization",
+          "researched": false
+        },
+        {
+          "full_name": "Ashley Roux",
+          "job_title": "Director, Growth Marketing",
+          "email": null,
+          "linkedin_url": null,
+          "contact_score": 75,
+          "use_case": "Growth experimentation, conversion optimization",
+          "researched": false
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "company_name": "Native Instruments",
+      "company_score": 75,
+      "priority_tier": "P2 WARM",
+      "total_contacts_at_company": 6,
+      "contacts_detailed": [
+        {
+          "full_name": "Anthony Gabriele",
+          "job_title": "Chief Marketing Officer",
+          "email": null,
+          "linkedin_url": null,
+          "contact_score": 82,
+          "use_case": "Marketing operations, attribution, brand positioning",
+          "researched": false
+        },
+        {
+          "full_name": "Caitlin Fischer",
+          "job_title": "Director of Strategic Operations, GTM",
+          "email": null,
+          "linkedin_url": null,
+          "contact_score": 78,
+          "use_case": "GTM operations automation, strategic initiatives, cross-functional coordination",
+          "researched": false
+        },
+        {
+          "full_name": "Melissa Misicka",
+          "job_title": "Director, Go-to-Market, Mixing/Mastering",
+          "email": null,
+          "linkedin_url": null,
+          "contact_score": 76,
+          "use_case": "Product GTM, launch coordination, market analysis",
+          "researched": false
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "company_name": "Xsolla",
+      "company_score": 74,
+      "priority_tier": "P2 WARM",
+      "total_contacts_at_company": 10,
+      "contacts_detailed": [
+        {
+          "full_name": "Berkley Egenes",
+          "job_title": "Chief Marketing & Growth Officer",
+          "email": null,
+          "linkedin_url": null,
+          "contact_score": 80,
+          "use_case": "Marketing + growth infrastructure, attribution, automation",
+          "researched": false
+        },
+        {
+          "full_name": "Sam Gaglani",
+          "job_title": "EVP Global Business Development & Strategic Partnerships",
+          "email": null,
+          "linkedin_url": null,
+          "contact_score": 78,
+          "use_case": "Partnership operations, enterprise GTM, revenue attribution",
+          "researched": false
+        },
+        {
+          "full_name": "Nate Ahearn",
+          "job_title": "VP Product Marketing",
+          "email": null,
+          "linkedin_url": null,
+          "contact_score": 76,
+          "use_case": "Product launch attribution, positioning, competitive intelligence",
+          "researched": false
+        }
+      ]
+    }
+  ],
+  "P3_COOL": [
+    {
+      "rank": 11,
+      "company_name": "Spitfire Audio",
+      "company_score": 72,
+      "priority_tier": "P3 COOL",
+      "total_contacts_at_company": 4,
+      "contacts_detailed": [
+        {
+          "full_name": "Amelia Gammon",
+          "job_title": "Chief Revenue Officer",
+          "email": "amelia@spitfireaudio.com",
+          "linkedin_url": null,
+          "contact_score": 80,
+          "use_case": "Revenue operations, CRM optimization, Splice integration",
+          "researched": false
+        },
+        {
+          "full_name": "Claire Mas",
+          "job_title": "Chief Marketing Officer",
+          "email": "claire.mas@spitfireaudio.com",
+          "linkedin_url": null,
+          "contact_score": 78,
+          "use_case": "Marketing operations, brand integration, attribution",
+          "researched": false
+        }
+      ]
+    },
+    {
+      "rank": 12,
+      "company_name": "Unity",
+      "company_score": 71,
+      "priority_tier": "P3 COOL",
+      "total_contacts_at_company": 6,
+      "contacts_detailed": [
+        {
+          "full_name": "Jessica Lindl",
+          "job_title": "Head of Marketing",
+          "email": null,
+          "linkedin_url": null,
+          "contact_score": 76,
+          "use_case": "Marketing operations, attribution, gaming GTM",
+          "researched": false
+        },
+        {
+          "full_name": "Amit Halperin",
+          "job_title": "VP Global Business Development",
+          "email": null,
+          "linkedin_url": null,
+          "contact_score": 74,
+          "use_case": "Partnership operations, strategic initiatives",
+          "researched": false
+        }
+      ]
+    },
+    {
+      "rank": 13,
+      "company_name": "ARTURIA",
+      "company_score": 70,
+      "priority_tier": "P3 COOL",
+      "total_contacts_at_company": 5,
+      "contacts_detailed": [
+        {
+          "full_name": "François Ruault",
+          "job_title": "Chief Revenue Officer",
+          "email": null,
+          "linkedin_url": null,
+          "contact_score": 78,
+          "use_case": "Revenue operations, CRM optimization, forecasting",
+          "researched": false
+        },
+        {
+          "full_name": "David Dolan",
+          "job_title": "VP, U.S. Sales and Marketing",
+          "email": null,
+          "linkedin_url": null,
+          "contact_score": 74,
+          "use_case": "Sales + marketing alignment, attribution, operations",
+          "researched": false
+        }
+      ]
+    },
+    {
+      "rank": 14,
+      "company_name": "Ableton",
+      "company_score": 69,
+      "priority_tier": "P3 COOL",
+      "total_contacts_at_company": 3,
+      "contacts_detailed": [
+        {
+          "full_name": "Daniel Plümer",
+          "job_title": "Head of Sales",
+          "email": null,
+          "linkedin_url": null,
+          "contact_score": 72,
+          "use_case": "Sales operations, pipeline management, CRM optimization",
+          "researched": false
+        },
+        {
+          "full_name": "Danny White",
+          "job_title": "Head of Education Sales & Operations",
+          "email": null,
+          "linkedin_url": null,
+          "contact_score": 68,
+          "use_case": "Education GTM, vertical-specific operations",
+          "researched": false
+        }
+      ]
+    },
+    {
+      "rank": 15,
+      "company_name": "GameAnalytics",
+      "company_score": 68,
+      "priority_tier": "P3 COOL",
+      "total_contacts_at_company": 4,
+      "contacts_detailed": [
+        {
+          "full_name": "Falko Böcker",
+          "job_title": "Head of BD & Customer Success",
+          "email": null,
+          "linkedin_url": null,
+          "contact_score": 70,
+          "use_case": "Partnership operations, customer success automation",
+          "researched": false
+        },
+        {
+          "full_name": "Abisola Olusanya",
+          "job_title": "Head of Product Marketing",
+          "email": null,
+          "linkedin_url": null,
+          "contact_score": 68,
+          "use_case": "Product launch attribution, competitive positioning",
+          "researched": false
+        }
+      ]
+    }
+  ],
+  "P4_COLD": {
+    "note": "Document lists company names only without individual contact details",
+    "companies": [
+      {
+        "rank": 16,
+        "company_name": "Audiokinetic",
+        "company_score": 65,
+        "priority_tier": "P4 COLD",
+        "contacts_count": 3,
+        "description": "Audio middleware for games",
+        "individual_contacts": "Not detailed in document"
+      },
+      {
+        "rank": 17,
+        "company_name": "Steinberg",
+        "company_score": 64,
+        "priority_tier": "P4 COLD",
+        "contacts_count": 3,
+        "description": "Cubase/audio software",
+        "individual_contacts": "Not detailed in document"
+      },
+      {
+        "rank": 18,
+        "company_name": "Image-Line (FL Studio)",
+        "company_score": 63,
+        "priority_tier": "P4 COLD",
+        "contacts_count": 3,
+        "description": "DAW platform",
+        "individual_contacts": "Not detailed in document"
+      },
+      {
+        "rank": 19,
+        "company_name": "AutoTune/Antares",
+        "company_score": 62,
+        "priority_tier": "P4 COLD",
+        "description": "Growth Director, partnerships focus",
+        "individual_contacts": "Not detailed in document"
+      },
+      {
+        "rank": 20,
+        "company_name": "Output",
+        "company_score": 61,
+        "priority_tier": "P4 COLD",
+        "description": "VP Marketing + Growth, plugin/sample platform",
+        "individual_contacts": "Not detailed in document"
+      },
+      {
+        "rank": 21,
+        "company_name": "WellSaid",
+        "company_score": 60,
+        "priority_tier": "P4 COLD",
+        "contacts_count": 2,
+        "description": "Voice AI (ElevenLabs competitor)",
+        "individual_contacts": "Not detailed in document"
+      },
+      {
+        "rank": 22,
+        "company_name": "Respeecher",
+        "company_score": 60,
+        "priority_tier": "P4 COLD",
+        "description": "Voice AI, VP Business Growth",
+        "individual_contacts": "Not detailed in document"
+      },
+      {
+        "rank": 23,
+        "company_name": "Resemble AI",
+        "company_score": 59,
+        "priority_tier": "P4 COLD",
+        "description": "Voice AI, SVP Sales, Head of Partnerships",
+        "individual_contacts": "Not detailed in document"
+      },
+      {
+        "rank": 24,
+        "company_name": "Coherence",
+        "company_score": 58,
+        "priority_tier": "P4 COLD",
+        "contacts_count": 3,
+        "description": "Head of Marketing/BD",
+        "individual_contacts": "Not detailed in document"
+      },
+      {
+        "rank": 25,
+        "company_name": "Pragma",
+        "company_score": 57,
+        "priority_tier": "P4 COLD",
+        "contacts_count": 3,
+        "description": "VP Business Development",
+        "individual_contacts": "Not detailed in document"
+      },
+      {
+        "rank": 26,
+        "company_name": "eMastered",
+        "company_score": 56,
+        "priority_tier": "P4 COLD",
+        "description": "Founders/CEOs, AI mastering (LANDR competitor)",
+        "individual_contacts": "Not detailed in document"
+      },
+      {
+        "rank": 27,
+        "company_name": "Eventide",
+        "company_score": 55,
+        "priority_tier": "P4 COLD",
+        "description": "CMO, VP Sales, audio effects",
+        "individual_contacts": "Not detailed in document"
+      },
+      {
+        "rank": 28,
+        "company_name": "Photon Engine",
+        "company_score": 54,
+        "priority_tier": "P4 COLD",
+        "contacts_count": 2,
+        "description": "Head of Growth",
+        "individual_contacts": "Not detailed in document"
+      }
+    ]
+  },
+  "P5_SKIP": {
+    "note": "Document indicates these should be deprioritized. No individual contacts listed.",
+    "criteria_for_skipping": [
+      "Gaming companies with weak audio connection (limited relevance)",
+      "Single contact companies without decision-making authority",
+      "Non-audio tech companies in dataset",
+      "Companies without verified GTM leadership contacts"
+    ]
+  },
+  "summary": {
+    "total_detailed_contacts_extracted": 49,
+    "detailed_contacts_by_tier": {
+      "P1_HOT": 10,
+      "P2_WARM": 24,
+      "P3_COOL": 9,
+      "P4_COLD": 0,
+      "P5_SKIP": 0
+    },
+    "companies_with_detail": 15,
+    "companies_listed_without_detail": 13,
+    "companies_mentioned_for_tier_5": "Multiple (exact count not specified)"
+  }
+}

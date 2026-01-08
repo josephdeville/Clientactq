@@ -1,0 +1,42 @@
+Company Name,Priority Tier,Company Score,Contact Full Name,Job Title,Email,LinkedIn URL,Contact Score,Use Case Description,Researched
+ElevenLabs,P1 HOT,88,Matthieu Carton,Community Growth Manager,matthieu@elevenlabs.io,,88,Community-led growth automation; PLG → Enterprise attribution,TRUE
+ElevenLabs,P1 HOT,88,Ryan Shary,GTM Enterprise Director,,,85,Enterprise GTM infrastructure; partnership operations,FALSE
+ElevenLabs,P1 HOT,88,Simon T.,GTM Director,,,82,GTM operations automation; sales enablement,FALSE
+Splice,P1 HOT,82,Mark Thomas,VP Product Marketing,mark.thomas@splice.com,,82,Product launch attribution; competitive intelligence,TRUE
+Splice,P1 HOT,82,Samu Rast,Director of Business Development,samu.rast@splice.com,,78,Partnership operations; revenue attribution,FALSE
+Splice,P1 HOT,82,Meredith Allen,Director of Business Development - Education,meredith.allen@splice.com,,76,B2B GTM infrastructure; education segment optimization,FALSE
+Universal Audio,P1 HOT,81,Andrew Rossa,VP of Product Marketing,arossa@uaudio.com,,85,Product launch attribution; premium positioning; competitive intelligence,FALSE
+Universal Audio,P1 HOT,81,JC Haydon,VP Growth & Transformation,,,83,Growth infrastructure; digital transformation; GTM automation,FALSE
+Universal Audio,P1 HOT,81,Lindsay McFarland,Director of Demand Generation,,,80,Demand gen automation; attribution modeling; pipeline efficiency,FALSE
+Universal Audio,P1 HOT,81,David Lenat,VP of Worldwide Sales,,,78,Sales operations; pipeline management; forecasting,FALSE
+Avid,P2 WARM,79,Keri Middleton,Senior Director - Global Demand Generation,KMiddleton@avid.com,,79,PE-driven demand gen efficiency; multi-product attribution,TRUE
+Avid,P2 WARM,79,Kavita Seebran,SVP Revenue Operations,kavita.seebran@avid.com,,82,RevOps transformation; forecasting; pipeline management,FALSE
+Avid,P2 WARM,79,Kim Connolly,VP Product Marketing,kim.connolly@avid.com,,76,Product portfolio positioning; competitive intelligence,FALSE
+TuneCore,P2 WARM,78,Brian Miller,Chief Revenue Officer,brian.miller@tunecore.com,,84,Revenue operations; CRM optimization; pipeline management,FALSE
+TuneCore,P2 WARM,78,Erica Quinn,Senior Director - Growth & Retention,erica.quinn@tunecore.com,,80,Growth marketing; retention optimization; lifecycle automation,FALSE
+TuneCore,P2 WARM,78,Bennett Henson,Director of Strategy & Business Development,bennett.henson@tunecore.com,,76,Partnership operations; strategic initiatives; attribution,FALSE
+Waves Audio,P2 WARM,76,Nir Benjaminy,Director - CRO & SEO,nirb@waves.com,,76,Conversion optimization; SEO automation; trial activation,TRUE
+Waves Audio,P2 WARM,76,Sam Terkel,Director of Online Sales,samt@waves.com,,74,E-commerce optimization; sales funnel automation,FALSE
+Waves Audio,P2 WARM,76,Derek Smith,US Sales Director - Consumer Division,dereks@waves.com,,72,Sales operations; territory management; forecasting,FALSE
+LANDR,P2 WARM,74,Paul Fleury,Director of Growth Marketing,pfleury@landr.com,,74,Growth experimentation; multi-product attribution; freemium optimization,TRUE
+LANDR,P2 WARM,74,Alexandre Garceau,Product Marketing Manager,agarceau@landr.com,,71,Product launch coordination; positioning; competitive intelligence,FALSE
+LANDR,P2 WARM,74,Jordan Heather,Director of Product Marketing,,,72,PMM operations; launch attribution; market research,FALSE
+DistroKid,P2 WARM,77,Amanda Ferri,VP of Marketing,amanda@distrokid.com,,82,Marketing operations; attribution; competitive positioning,FALSE
+DistroKid,P2 WARM,77,Angela Lyda,VP - Growth Marketing,,,78,Growth marketing automation; acquisition optimization,FALSE
+DistroKid,P2 WARM,77,Ashley Roux,Director - Growth Marketing,,,75,Growth experimentation; conversion optimization,FALSE
+Native Instruments,P2 WARM,75,Anthony Gabriele,Chief Marketing Officer,,,82,Marketing operations; attribution; brand positioning,FALSE
+Native Instruments,P2 WARM,75,Caitlin Fischer,Director of Strategic Operations - GTM,,,78,GTM operations automation; strategic initiatives; cross-functional coordination,FALSE
+Native Instruments,P2 WARM,75,Melissa Misicka,Director - Go-to-Market Mixing/Mastering,,,76,Product GTM; launch coordination; market analysis,FALSE
+Xsolla,P2 WARM,74,Berkley Egenes,Chief Marketing & Growth Officer,,,80,Marketing + growth infrastructure; attribution; automation,FALSE
+Xsolla,P2 WARM,74,Sam Gaglani,EVP Global Business Development & Strategic Partnerships,,,78,Partnership operations; enterprise GTM; revenue attribution,FALSE
+Xsolla,P2 WARM,74,Nate Ahearn,VP Product Marketing,,,76,Product launch attribution; positioning; competitive intelligence,FALSE
+Spitfire Audio,P3 COOL,72,Amelia Gammon,Chief Revenue Officer,amelia@spitfireaudio.com,,80,Revenue operations; CRM optimization; Splice integration,FALSE
+Spitfire Audio,P3 COOL,72,Claire Mas,Chief Marketing Officer,claire.mas@spitfireaudio.com,,78,Marketing operations; brand integration; attribution,FALSE
+Unity,P3 COOL,71,Jessica Lindl,Head of Marketing,,,76,Marketing operations; attribution; gaming GTM,FALSE
+Unity,P3 COOL,71,Amit Halperin,VP Global Business Development,,,74,Partnership operations; strategic initiatives,FALSE
+ARTURIA,P3 COOL,70,François Ruault,Chief Revenue Officer,,,78,Revenue operations; CRM optimization; forecasting,FALSE
+ARTURIA,P3 COOL,70,David Dolan,VP - U.S. Sales and Marketing,,,74,Sales + marketing alignment; attribution; operations,FALSE
+Ableton,P3 COOL,69,Daniel Plümer,Head of Sales,,,72,Sales operations; pipeline management; CRM optimization,FALSE
+Ableton,P3 COOL,69,Danny White,Head of Education Sales & Operations,,,68,Education GTM; vertical-specific operations,FALSE
+GameAnalytics,P3 COOL,68,Falko Böcker,Head of BD & Customer Success,,,70,Partnership operations; customer success automation,FALSE
+GameAnalytics,P3 COOL,68,Abisola Olusanya,Head of Product Marketing,,,68,Product launch attribution; competitive positioning,FALSE
